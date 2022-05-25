@@ -1,0 +1,48 @@
+header {
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    position: fixed;
+    background-color: beige;
+    top: 0;
+    right: 0;
+    z-index: 100;
+}
+
+header h1 {
+    padding: 10px;
+    margin: 10px;
+    left: 20px;
+    color: #00a3f2;
+    font-size: 40px;
+}
+
+/* Navbar */
+nav {
+    display: flex;
+    justify-content: flex-end;
+}
+
+nav ul {
+    position: absolute;
+    top: 15px;
+}
+
+nav ul li {
+    list-style: none;
+    display: contents;
+}
+
+nav ul li a {
+    text-decoration: none;
+    position: relative;
+    padding: 0 20px;
+    font-size: 20px;
+    color: #0e80ff;
+}
+
+nav ul li a:hover {
+    border-radius: 15px;
+    color: white;
+    background-color: #0e80ff;
+}
