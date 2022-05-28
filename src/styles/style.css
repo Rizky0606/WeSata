@@ -1,7 +1,7 @@
 header {
     width: 100%;
     display: grid;
-    grid-template-columns: auto 1fr auto;
+    grid-template-columns: auto 1fr 1fr 1fr;
     position: fixed;
     background-color: beige;
     top: 0;
@@ -15,6 +15,32 @@ header h1 {
     left: 20px;
     color: #00a3f2;
     font-size: 40px;
+}
+
+.search-container {
+    width: 100%;
+    position: relative;
+    top: 26px;
+    left: -50px;
+}
+
+.search-container input {
+    height: 30px;
+    width: 250px;
+    border-radius: 20px;
+
+}
+
+.search-container input::placeholder {
+    text-align: center;
+    color: rgb(128, 126, 126);
+}
+
+.search-container button {
+    height: 30px;
+    border-radius: 15px;
+    background-color:aquamarine;
+    cursor: pointer;
 }
 
 /* Navbar */
@@ -45,4 +71,62 @@ nav ul li a:hover {
     border-radius: 15px;
     color: white;
     background-color: #0e80ff;
+}
+
+/* List */
+.listContainer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 100%;
+    gap: 20px;
+}
+
+.listItem {
+    display: flex;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 0 12px 15px rgba(0, 0, 0, 0.2);
+}
+
+.listItem__image img{
+    width: 200px;
+    height: 250px;
+    min-height: 100px;
+    border-radius: 10px;
+}
+
+.listItem__content {
+    display: block;
+    width: 100%;
+}
+
+.listItem__title {
+    text-align: center;
+}
+
+.listItem__content p {
+    margin: 10px;
+    position: relative;
+    top: 20px;
+}
+
+.listItem__content .buttonDetail {
+    background-color: #00a3f2;
+    color: white;
+    text-decoration: none;
+    border-radius: 20px;
+    font-size: 16px;
+    position: relative;
+    cursor: pointer;
+    top: 70px;
+    left: 50px;
+    padding: 8px;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    font-size: 20px;
+    margin: 10px;
+    padding: 10px;
 }
