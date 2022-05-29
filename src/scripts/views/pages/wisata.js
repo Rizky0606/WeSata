@@ -1,12 +1,12 @@
-import createListItemTemplate from "../templates/template-views";
+import { createListItemTemplate } from "../templates/template-views";
 import WeSataSource from "../../data/wesata-source";
 
 const Wisata = {
     async render() {
         return `
         <div class="content">
-            <h2 class="content__heading"></h2>
-            <div class="listContainer">
+            <h2 class="content__heading">List Wisata Indonesia</h2>
+            <div class="listContainer" id="listContainer">
         
             </div>
         </div> 

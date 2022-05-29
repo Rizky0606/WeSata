@@ -10,7 +10,7 @@ class WeSataSource {
     static async adat() {
         const response = await fetch(API_ENDPOINT.ADAT);
         const responseJson = await response.json();
-        return responseJson.adat;
+        return responseJson;
     }
 
     static async detailItem(id) {

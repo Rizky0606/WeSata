@@ -9,6 +9,11 @@ const app = new App ({
     content: document.querySelector('#mainContent'),
 });
 
+const header = document.querySelector('header');
+window.addEventListener('scroll', () => {
+    header.classList.toggle('shadow', window.scrollY > 50);
+});
+
 window.addEventListener('hashchange', () => {
     app.renderPage();
 });

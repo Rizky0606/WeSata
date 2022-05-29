@@ -1,8 +1,11 @@
 import Wisata from "../views/pages/wisata";
+import Home from "../views/pages/home";
+import Adat from "../views/pages/adat";
 
 const routes = {
-    '/': Wisata,
+    '/': Home,
     '/wisata': Wisata,
+    '/adat': Adat,
 };
 
 export default routes;
