@@ -1,38 +1,88 @@
 const Home = {
     async render() {
         return `
-            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
-                <div class="carousel-inner">
-                    <div class="carousel-item active">
-                        <img src="assets/images-1.jpg" class="d-block w-100" alt="...">
-                    </div>
-                    <div class="carousel-item">
-                        <img src="assets/images-2.jpg" class="d-block w-100" alt="...">
-                    </div>
-                    <div class="carousel-item">
-                        <img src="assets/images-3.jpg" class="d-block w-100" alt="...">
-                    </div>
-                </div>
-            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="visually-hidden">Previous</span>
-            </button>
-            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="visually-hidden">Next</span>
-            </button>
-        </div>
-
-        <div class="profile">
-            <div class="profile__text">
-                <h2>Jelajahi Indonesia <br> Bersama Kami</h2>
-                <p>Temukan lebih dari 1000 keindahan <br> destinasi wisata di Indonesia dengan mudah <br> dan menyenangkan</p>
-        </div>
-            <div class="profile__image">
-                <img src="assets/images-4.png" alt="">
+        <div class="hero" alt="hero" style="background-image: linear-gradient(rgba(0, 0, 5, .5), rgba(0, 0, 5, .5)), url('assets/images-1.jpg');">
+            <div class="heroinner">
+                <h1 class="herotitle">Jelajahi Indonesia <br>
+                Bersama <b style="color: #FFB21B">Kami</b></h1>
+                <p class="herosubtitle">Temukan berbagai keindahan<br>
+                destinasi wisata serta adat<br>
+                istiada di Indonesia dengan<br>
+                mudah dan menyenangkan!</p>
             </div>
         </div>
-    
+        <div class="card-container">
+            <div class="row">
+                <div class="col-sm-3 mx-auto">
+                    <div class="card border-0 shadow-sm p-3 mb-5 bg-body rounded" style="width: 15.5rem; height: 20rem;">
+                        <div class="card-body" style="text-align: center;">
+                            <i class="fa-regular fa-thumbs-up fa-3x" style="color: #FFB21B; margin-top:35px; margin-bottom:35px;"></i>
+                            <h5 class="card-title" style="margin-bottom: 25px;">Travellers Suka Layanan Kami</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">Berbagai macam destinasi memudahkan para traveller.</h6>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3 mx-auto">
+                    <div class="card border-0 shadow-sm p-3 mb-5 bg-body rounded" style="width: 15.5rem; height: 20rem;">
+                        <div class="card-body" style="text-align: center;">
+                            <i class="fa-solid fa-people-roof fa-3x" style="color: #FFB21B; margin-top:35px; margin-bottom:35px;"></i>
+                            <h5 class="card-title" style="margin-bottom: 25px;">Adat Indonesia yang Lengkap</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">Informasi budaya adat-istiadat di Indonesia.</h6>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3 mx-auto">
+                    <div class="card border-0 shadow-sm p-3 mb-5 bg-body rounded" style="width: 15.5rem; height: 20rem;">
+                        <div class="card-body" style="text-align: center;">
+                            <i class="fa-regular fa-heart fa-3x" style="color: #FFB21B; margin-top:35px; margin-bottom:35px;"></i>
+                            <h5 class="card-title" style="margin-bottom: 25px;">Fitur Like Destinasi Favorit</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">Simpan destinasi favoritmu hanya dengan tombol like.</h6>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="content-container-1">
+            <div class="content-1">
+                <div class="profile">
+                    <div class="profile__text">
+                        <h2><b style="color: #FFB21B;">Kenapa</b> memilih WeSata?</h2>
+                        <p>Di WeSata kamu dapat menjelajahi berbagai<br>
+                        macam tempat wisata di seluruh Indonesia<br>
+                        lengkap dengan budaya adat istiadatnya.<br>
+                        Kamu juga dapat menyimpan destinasi favoritmu<br>
+                        dengan praktis, lho!</p>
+                    </div>
+                    <div class="profile__image">
+                        <img src="assets/images-4.png" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="content-container-2">
+            <div class="content-2">
+                <div class="content2_title">
+                    <h2>Tentang Kami<h2>
+                </div>
+                <div class="content2_body">
+                    <img src="assets/images-5.png" alt="">
+                    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris aliquam sodales sem. Vivamus in auctor tortor, ut tempus nulla. Nunc varius erat et dolor pretium, imperdiet ultricies turpis pulvinar. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus nec arcu vestibulum lorem sodales placerat. Nunc interdum porttitor sapien.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="content-container-3">
+            <div class="content-3">
+                <div class="content3_title">
+                    <h2>Tunggu apalagi? <b style="color: #FFB21B;">Yuk</b> jelajahi Indonesia!</h2>
+                </div>
+                <div class="content3_button col text-center">
+                    <button type="button" class="btn btn-warning mx-auto border btn-lg rounded">Jelajah Sekarang></button>
+                </div>
+            </div>
+        </div>
         `;
     }, 
 };

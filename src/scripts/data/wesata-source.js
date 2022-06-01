@@ -13,8 +13,13 @@ class WeSataSource {
         return responseJson;
     }
 
-    static async detailItem(id) {
-        const response = await fetch(API_ENDPOINT.DETAIL(id));
+    static async detailWisata(id) {
+        const response = await fetch(API_ENDPOINT.DetailWisata(id));
+        return response.json();
+    }
+
+    static async detailAdat(id) {
+        const response = await fetch(API_ENDPOINT.DetailAdat(id));
         return response.json();
     }
 }
