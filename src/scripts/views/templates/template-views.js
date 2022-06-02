@@ -48,4 +48,22 @@ const createDetailAdatTemplate = (adat) => `
     </div>
 `;
 
-export {createListItemTemplate, createListAdatTemplate, createDetailWisataTemplate, createDetailAdatTemplate};
+const createFavoriteButtonTemplate = () => `
+  <button aria-label="like this wisata" id="favoriteButton" class="favorite">
+    <i class="fa-regular fa-heart"></i>
+  </button>
+`;
+
+const createFavoritedButtonTemplate = () => `
+  <button aria-label="unlike this wisata" id="favoriteButton" class="favorite">
+    <i class="fa-regular fa-heart"></i>
+  </button>
+`;
+
+export {createListItemTemplate, 
+    createListAdatTemplate, 
+    createDetailWisataTemplate, 
+    createDetailAdatTemplate,
+    createFavoriteButtonTemplate,
+    createFavoritedButtonTemplate
+};

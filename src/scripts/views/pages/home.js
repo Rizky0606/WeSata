@@ -61,7 +61,7 @@ const Home = {
             </div>
         </div>
 
-        <div class="content-container-2">
+        <div class="content-container-2" id="about-us">
             <div class="content-2">
                 <div class="content2_title">
                     <h2>Tentang Kami<h2>
@@ -79,7 +79,7 @@ const Home = {
                     <h2>Tunggu apalagi? <b style="color: #FFB21B;">Yuk</b> jelajahi Indonesia!</h2>
                 </div>
                 <div class="content3_button col text-center">
-                    <button type="button" class="btn btn-warning mx-auto border btn-lg rounded">Jelajah Sekarang></button>
+                    <a href="/#/wisata" class="btn btn-warning mx-auto border btn-lg rounded">Jelajah Sekarang></a>
                 </div>
             </div>
         </div>

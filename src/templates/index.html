@@ -12,6 +12,7 @@
     <script src="https://kit.fontawesome.com/2d2e41954d.js" crossorigin="anonymous"></script>
 </head>
 <body>
+
     <a href="#mainContent" class="skip-link">Menuju ke konten</a>
     <header class="app-bar">
         <div class="app-bar__menu">
@@ -27,8 +28,8 @@
                 <li><a href="/">Beranda</a></li>
                 <li><a href="#/wisata">Destinasi</a></li>
                 <li><a href="#/adat">Adat</a></li>
-                <li><a href="#">Favorit</a></li>
-                <li><a href="#footer">Tentang</a></li>
+                <li><a href="#/favorite">Favorit</a></li>
+                <li><a href="#about-us">Tentang</a></li>
             </ul>
         </nav>
 
@@ -39,3 +40,9 @@
     <footer id="footer">Copyright © 2022 WeSata, All Rights Reserved.</footer>
 </body>
 </html>
+
+<script>
+    $(window).on("load", function(){
+        $(".lds-roller").fadeOut(3000);
+    });
+</script>
