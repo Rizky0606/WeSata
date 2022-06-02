@@ -1,6 +1,6 @@
 
 const createListItemTemplate = (wisata) => `
-    <div class="listItem">
+    <div class="listItem" tabindex="0">
         <div class="listItem__image">
             <img src="${wisata.pictured}" alt="${wisata.name}">
         </div>
@@ -14,13 +14,13 @@ const createListItemTemplate = (wisata) => `
 `;
 
 const createListAdatTemplate = (adat) => `
-    <div class="listItem">
+    <div class="listItem" tabindex="0">
         <div class="listItem__image">
             <img src="${adat.pictured}" alt="${adat.name}">
         </div>
         <div class="listItem__content">
             <h3 class="listItem__title">${adat.name}</h3>
-            <p>Kota: ${adat.city}</p>
+            <p>Provinsi: ${adat.province}</p>
             <p>${adat.description}</p>
             <a href="${`/#/detail-adat/${adat.id}`}" class="buttonDetail">Detail</a>
         </div>
@@ -28,24 +28,29 @@ const createListAdatTemplate = (adat) => `
 `;
 
 const createDetailWisataTemplate = (wisata) => `
-    <h2 class="content__title">${wisata.name}</h2>
+    <h2 class="content__title" tabindex="0">${wisata.name}</h2>
+    <center> 
     <img src="${wisata.pictured}" alt="${wisata.name}" class="content__image">
+    </center>
     <div class="list__content">
-        <i class="fa-regular fa-star">${wisata.rating}</i>
-        <i class="fa-regular fa-map">${wisata.address}</i>
-        <p>Kota: ${wisata.city}</p>
-        <p>Provinsi: ${wisata.province}</p>
-        <p class="content__description">${wisata.description}</p>
+        <i class="fa-regular fa-star" tabindex="0">${wisata.rating}</i>
+        <i class="fa-regular fa-city" tabindex="0">${wisata.city}</i>
+        <i class="fa-light fa-location-dot" tabindex="0">${wisata.province}</i>
+        <i class="fa-regular fa-map" tabindex="0">${wisata.address}</i>
     </div>
+    <p class="content__description" tabindex="0">${wisata.description}</p>
+    
 `;
 
 const createDetailAdatTemplate = (adat) => `
-    <h2 class="content__title">${adat.name}</h2>
+    <h2 class="content__title" tabindex="0">${adat.name}</h2>
+    <center>
     <img src="${adat.pictured}" alt="${adat.name}" class="content__image">
-    <div class="list__content">
-        <i class="fa-regular fa-map">${adat.province}</i>
-        <p class="content__description">${adat.description}</p>
+    </center>
+    <div class="list__content-adat">
+        <i class="fa-regular fa-map" tabindex="0">${adat.province}</i>
     </div>
+    <p class="content__description" tabindex="0">${adat.description}</p>
 `;
 
 const createFavoriteButtonTemplate = () => `

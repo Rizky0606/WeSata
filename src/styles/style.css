@@ -379,30 +379,78 @@ nav .search-container i:hover{
     padding: 8px;
 }
 
+/* Detail */
+.content__title {
+    text-align: center;
+    color: #FFB21B;
+    font-size: 50px;
+    font-weight: bolder;
+    margin: 20px;
+    padding: 20px;
+}
+
+.content__image {
+    padding: 10px;
+    margin: 10px;
+    width: 900px;
+}
+
+.list__content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: center;
+    margin: 10px;
+    padding: 20px;
+}
+
+.list__content i {
+    color: #FFB21B;
+    font-size: 20px;
+}
+
+.list__content-adat {
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-items: center;
+    margin: 10px;
+    padding: 20px;
+    color: #FFB21B;
+    font-size: 20px;
+}
+
+.content__description {
+    margin: 20px;
+    padding: 20px;
+}
+
 /* Footer */
 footer {
     text-align: center;
     font-size: 16px;
     background-color: black;
     color: white;
-    margin-top: 100px;
     padding: 30px;
+    margin-top: 10px;
 }
 
 /* Favorite */
+#favoriteButtonContainer {
+    display: flex;
+    justify-content: flex-end;
+}
 .favorite {
-    font-size: 18px;
-    position: fixed;
+    font-size: 35px;
+    position: relative;
     bottom: 16px;
     right: 16px;
-    background-color: #db0000;
-    color: white;
+    color: #FFB21B;
+    background-color: transparent;
     border: 0;
     border-radius: 50%;
     width: 55px;
     height: 55px;
-    cursor: pointer;
     display: flex;
     align-items: center;
     justify-content: center;
+    font-weight: bolder;
 }
