@@ -5,8 +5,10 @@ const Wisata = {
     async render() {
         return `
         <div class="content">
-            <h2 class="content__heading">List Wisata Indonesia</h2>
-            <div class="listContainer" id="listContainer">
+            <h2 class="content__heading">Destinasi Wisata Indonesia</h2>
+            <div class="content__list" id="contentList">
+                <div class="listContainer" id="listContainer">
+            </div>
         
             </div>
         </div> 

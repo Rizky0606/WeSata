@@ -1,16 +1,17 @@
 
 const createListItemTemplate = (wisata) => `
-    <div class="listItem" tabindex="0">
-        <div class="listItem__image">
-            <img src="${wisata.pictured}" alt="${wisata.name}">
-        </div>
-        <div class="listItem__content">
-            <h3 class="listItem__title">${wisata.name}</h3>
-            <p>Rating: ${wisata.rating}</p>
-            <p>Kota: ${wisata.city}</p>
-            <a href="${`/#/detail-wisata/${wisata.id}`}" class="buttonDetail">Detail</a>
-        </div>
+<div class="listItem">
+    <div class="listItem__image">
+        <img src="${wisata.pictured}" alt="${wisata.name}">
     </div>
+    <div class="listItem__content">
+        <a href="${`/#/detail-wisata/${wisata.id}`}" class="listItem__title">${wisata.name}</a>
+        <p class="listItem_rating"><i class="fa-solid fa-star star"></i> ${wisata.rating}</p>
+        <p class="listItem_city">${wisata.city}</p>
+        <p class="listItem_desc">${wisata.description.slice(0, 200)}...</p>
+        <a href="${`/#/detail-wisata/${wisata.id}`}" class="buttonDetail">Detail</a>
+    </div>
+</div>
 `;
 
 const createListAdatTemplate = (adat) => `
@@ -20,8 +21,8 @@ const createListAdatTemplate = (adat) => `
         </div>
         <div class="listItem__content">
             <h3 class="listItem__title">${adat.name}</h3>
-            <p>Provinsi: ${adat.province}</p>
-            <p>${adat.description}</p>
+            <p class="listItem_city">${adat.province}</p>
+            <p class="listItem_desc">${adat.description.slice(0, 200)}...</p>
             <a href="${`/#/detail-adat/${adat.id}`}" class="buttonDetail">Detail</a>
         </div>
     </div>

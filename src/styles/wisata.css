@@ -1,0 +1,111 @@
+.content__heading{
+    text-align: center;
+    color: #FFB21B;
+    margin: 30px;
+    font-weight: bold;
+    font-family: 'Overpass', sans-serif;
+}
+
+.content__list{
+    padding: 0 100px;
+}
+
+.listContainer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-row-gap: 40px ;
+    grid-column-gap: 35px;
+}
+
+.listItem{
+    position: relative;
+    overflow: hidden;
+    border: #141414;
+    width: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    padding-bottom: 20px;
+}
+
+.listItem__image img{
+    width: 100%;
+    height: 250px;
+    min-height: 100px;
+}
+
+.listItem__content{
+    padding: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.listItem__title{
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 10px;
+    transition: 0.3s opacity;
+    margin-bottom: 10px;
+    text-decoration: none;
+    color: black;
+    margin-bottom: 5px;
+    padding-bottom: 10px;
+}
+
+.listItem__title:hover{
+    opacity: 0.5;
+    color: black;
+}
+
+.listItem_rating{
+    font-size: 13px;
+    font-weight: 500;
+    color: black;
+    margin-bottom: 0.5rem;
+}
+
+.listItem_city{
+    font-size: 13px;
+    font-weight: 500;
+    color: black;
+    text-transform: uppercase;
+    border-radius: 10px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.listItem_desc{
+    font-size: 14px;
+    line-height: 1.25em;
+}
+
+.star{
+    color: #FFB21B;
+}
+
+.listItem_city{
+    position: absolute;
+	top: 8px;
+	left: 16px;
+	background-color: white;
+	padding: 5px 10px 5px;
+	color: black;
+	font-weight: 500;
+    margin-top: 10px;
+}
+
+.listItem__content .buttonDetail {
+    background-color: whitesmoke;
+    color: black;
+    text-decoration: none;
+    border-radius: 10px;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    position: relative;
+    cursor: pointer;
+    padding: 8px;
+    margin-bottom: 30px;
+    font-weight: 500;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.listItem__content .buttonDetail:hover{
+    font-weight: bold;
+}
