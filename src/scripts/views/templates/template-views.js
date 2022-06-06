@@ -1,6 +1,6 @@
 
 const createListItemTemplate = (wisata) => `
-<div class="listItem">
+<div class="listItem" tabindex="0">
     <div class="listItem__image">
         <img src="${wisata.pictured}" alt="${wisata.name}">
     </div>
@@ -20,7 +20,7 @@ const createListAdatTemplate = (adat) => `
             <img src="${adat.pictured}" alt="${adat.name}">
         </div>
         <div class="listItem__content">
-            <h3 class="listItem__title">${adat.name}</h3>
+            <a href="${`/#/detail-adat/${adat.id}`}" class="listItem__title">${adat.name}</a>
             <p class="listItem_city">${adat.province}</p>
             <p class="listItem_desc">${adat.description.slice(0, 200)}...</p>
             <a href="${`/#/detail-adat/${adat.id}`}" class="buttonDetail">Detail</a>
@@ -35,8 +35,8 @@ const createDetailWisataTemplate = (wisata) => `
     </center>
     <div class="list__content">
         <i class="fa-regular fa-star" tabindex="0">${wisata.rating}</i>
-        <i class="fa-regular fa-city" tabindex="0">${wisata.city}</i>
-        <i class="fa-light fa-location-dot" tabindex="0">${wisata.province}</i>
+        <i class="far fa-building" tabindex="0">${wisata.city}</i>
+        <i class="fa-solid fa-location-dot" tabindex="0">${wisata.province}</i>
         <i class="fa-regular fa-map" tabindex="0">${wisata.address}</i>
     </div>
     <p class="content__description" tabindex="0">${wisata.description}</p>

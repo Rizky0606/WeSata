@@ -1,3 +1,34 @@
+@media screen and (min-width: 650px) {
+    .app-bar {
+        grid-template-columns: 1fr auto;
+        padding: 8px 32px;
+    }
+
+    .app-bar .app-bar__menu {
+        display: none;
+        min-height: 44px;
+        min-height: 44px;
+    }
+
+    .app-bar .navigation {
+        position: static;
+        width: 100%;
+    }
+
+    .app-bar .navigation ul li {
+        display: inline-block;
+    }
+
+    .app-bar .navigation ul li a {
+        display: inline-block;
+        width: 120px;
+        text-align: center;
+        margin: 0;
+        min-width: 44px;
+        min-height: 44px;
+    }
+}
+
 @media screen and (max-width: 768px){
     header{
         display: block;

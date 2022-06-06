@@ -30,9 +30,9 @@ header{
     background-color: black;
     display: grid;
     grid-template-columns: auto 1fr auto;
-    gap: 10px;
     position: sticky;
     top: 0;
+    width: 100%;
     z-index: 99;
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
     
@@ -47,6 +47,21 @@ header .title{
     margin-top: 10px;
 }
 
+.app-bar .app-bar__menu {
+    display: flex;
+    align-items: center;
+}
+
+.app-bar .app-bar__menu button {
+    background-color: transparent;
+    border: none;
+    font-size: 18px;
+    padding: 8px;
+    cursor: pointer;
+    min-height: 44px;
+    min-width: 44px;
+}
+
 /* Navbar */
 nav {
     display: flex;
@@ -54,7 +69,6 @@ nav {
     width: 100%;
     position: relative;
     text-align: center;
-    padding: 15px 30px;
 }
 
 nav .title{
@@ -68,7 +82,6 @@ nav ul{
     font-family: 'Poppins', sans-serif;
     display: flex;
     list-style: none;
-    margin: auto 0;
 }
 
 nav ul li{
