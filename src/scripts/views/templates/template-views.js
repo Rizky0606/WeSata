@@ -1,4 +1,3 @@
-
 const createListItemTemplate = (wisata) => `
 <div class="listItem" tabindex="0">
     <div class="listItem__image">
@@ -22,7 +21,7 @@ const createListAdatTemplate = (adat) => `
         <div class="listItem__content">
             <a href="${`/#/detail-adat/${adat.id}`}" class="listItem__title">${adat.name}</a>
             <p class="listItem_city">${adat.province}</p>
-            <p class="listItem_desc">${adat.description.slice(0, 200)}...</p>
+            <p class="listItem_desc">${adat.description1.slice(0, 200)}...</p>
             <a href="${`/#/detail-adat/${adat.id}`}" class="buttonDetail">Detail</a>
         </div>
     </div>
@@ -51,7 +50,8 @@ const createDetailAdatTemplate = (adat) => `
     <div class="list__content-adat">
         <i class="fa-regular fa-map" tabindex="0">${adat.province}</i>
     </div>
-    <p class="content__description" tabindex="0">${adat.description}</p>
+    <p class="content__description" tabindex="0">${adat.description1}</p>
+    <p class="content__description" tabindex="0">${adat.description2}</p>
 `;
 
 const createFavoriteButtonTemplate = () => `
