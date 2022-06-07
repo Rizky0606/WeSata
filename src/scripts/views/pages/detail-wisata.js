@@ -6,7 +6,7 @@ import FavoriteButtonInitiator from '../../utils/favorite-button-initiator';
 const DetailWisata = {
     async render() {
         return `
-            <div class="containerDetailWisata" id="containerDetailWisata"></div>
+            <div class="containerDetail" id="containerDetailWisata"></div>
             <div id="favoriteButtonContainer"></div>
         `;
     },

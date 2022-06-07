@@ -34,10 +34,10 @@ const createDetailWisataTemplate = (wisata) => `
     <img src="${wisata.pictured}" alt="${wisata.name}" class="content__image">
     </center>
     <div class="list__content">
-        <i class="fa-regular fa-star" tabindex="0">${wisata.rating}</i>
-        <i class="far fa-building" tabindex="0">${wisata.city}</i>
-        <i class="fa-regular fa-map-pin">${wisata.province}</i>
-        <i class="fa-regular fa-map" tabindex="0">${wisata.address}</i>
+        <i class="fa-regular fa-star" tabindex="0"> ${wisata.rating}</i>
+        <i class="far fa-building" tabindex="0"> ${wisata.city}</i>
+        <i class="fa-regular fa-map-pin"> ${wisata.province}</i>
+        <i class="fa-regular fa-map" tabindex="0"> ${wisata.address}</i>
     </div>
     <p class="content__description" tabindex="0">${wisata.description}</p>
     

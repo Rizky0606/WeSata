@@ -25,6 +25,8 @@ body{
     top: 0;
 }
 
+/*nav*/
+
 header{
     padding: 8px 16px;
     background-color: black;
@@ -43,11 +45,12 @@ header .title{
     font-family: 'Overpass', sans-serif;
     font-weight: bold;
     color: #FFB21B;
-    text-align: center;
+    text-align: left;
     margin-top: 10px;
 }
 
 .app-bar .app-bar__menu {
+    visibility: hidden;
     display: flex;
     align-items: center;
 }
@@ -60,6 +63,10 @@ header .title{
     cursor: pointer;
     min-height: 44px;
     min-width: 44px;
+}
+
+.navigation ul li{
+    margin-bottom: 0;
 }
 
 /* Navbar */
@@ -82,10 +89,14 @@ nav ul{
     font-family: 'Poppins', sans-serif;
     display: flex;
     list-style: none;
+    align-items: center;
+    margin-bottom: 0;
+    padding-right: 30px;
 }
 
 nav ul li{
     margin: 0 3px;
+    align-items: center;
 }
 
 nav ul li a{
@@ -101,6 +112,7 @@ nav ul li:hover a{
     background: #fff;
     color: #FFB21B;
     font-weight: medium;
+    height: 13px;
 }
 
 nav .search-container{
@@ -108,7 +120,7 @@ nav .search-container{
     margin: auto 0;
     height: 35px;
     line-height: 35px;
-    margin-right: 30px;
+    margin-right: 100px;
 }
 
 nav .search-container input{
@@ -246,6 +258,11 @@ nav .search-container i:hover{
     font-family: 'Poppins', sans-serif;
 }
 
+/* Images Slider */
+.carousel-item img{
+    height: 550px;
+}
+
 /* Profile */
 .profile {
     display: grid;
@@ -268,53 +285,6 @@ nav .search-container i:hover{
     width: 90%;
 }
 
-/* Detail */
-.content__title {
-    text-align: center;
-    color: #FFB21B;
-    font-size: 50px;
-    font-weight: bolder;
-    margin: 20px;
-    padding: 20px;
-}
-
-.content__image {
-    padding: 10px;
-    margin: 10px;
-    width: 900px;
-    border: 1px solid black;
-    border-radius: 10px;
-    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
-}
-
-.list__content {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    justify-items: center;
-    margin: 10px;
-    padding: 20px;
-}
-
-.list__content i {
-    color: #FFB21B;
-    font-size: 20px;
-}
-
-.list__content-adat {
-    display: grid;
-    grid-template-columns: 1fr;
-    justify-items: center;
-    margin: 10px;
-    padding: 20px;
-    color: #FFB21B;
-    font-size: 20px;
-}
-
-.content__description {
-    margin: 20px;
-    padding: 20px;
-}
-
 /* Footer */
 footer {
     text-align: center;
@@ -323,6 +293,7 @@ footer {
     color: white;
     padding: 30px;
     margin-top: 10px;
+    font-family: 'Poppins', sans-serif;
 }
 
 /* Favorite */

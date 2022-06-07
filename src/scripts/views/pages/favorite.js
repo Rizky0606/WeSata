@@ -6,8 +6,10 @@ const Favorite = {
         return `
             <div class="content">
                 <h2 class="content__heading">Destinasi Favoritmu</h2>
-                <div id="listContainer" class="listContainer">
-
+                <div class="content__list" id="contentList">
+                    <div class="listContainer" id="listContainer">
+                    </div>
+        
                 </div>
             </div>
         `;

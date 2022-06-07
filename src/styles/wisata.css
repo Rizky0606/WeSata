@@ -109,3 +109,14 @@
 .listItem__content .buttonDetail:hover{
     font-weight: bold;
 }
+
+/* Footer */
+footer {
+    text-align: center;
+    font-size: 16px;
+    background-color: black;
+    color: white;
+    padding: 30px;
+    margin-top: 10px;
+    font-family: 'Poppins', sans-serif;
+}

@@ -5,7 +5,7 @@ import WeSataSource from "../../data/wesata-source";
 const DetailAdat = {
     async render() {
         return `
-            <div class="containerDetailAdat" id="containerDetailAdat"></div>
+            <div class="containerDetail" id="containerDetailAdat"></div>
         `;
     },
 

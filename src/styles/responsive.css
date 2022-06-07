@@ -1,32 +1,33 @@
-@media screen and (min-width: 650px) {
+@media only screen and (max-width: 600px) {
     .app-bar {
         grid-template-columns: 1fr auto;
         padding: 8px 32px;
     }
-
-    .app-bar .app-bar__menu {
-        display: none;
-        min-height: 44px;
-        min-height: 44px;
+    
+    .app-bar .title {
+        font-size: 1.5em;
     }
 
-    .app-bar .navigation {
+    .app-bar .app-bar__menu #hamburgerButton{
+        display: block;
+    }
+
+    .app-bar .navigationDrawer {
         position: static;
         width: 100%;
     }
 
-    .app-bar .navigation ul li {
+    .app-bar .navigationDrawer ul li {
         display: inline-block;
     }
 
-    .app-bar .navigation ul li a {
+    .app-bar .navigationDrawer ul li a {
         display: inline-block;
         width: 120px;
         text-align: center;
         margin: 0;
-        min-width: 44px;
-        min-height: 44px;
     }
+
 }
 
 @media screen and (max-width: 768px){
@@ -35,3 +36,32 @@
         padding: 0;
     }
 }
+
+@media screen and (min-width: 200px) {
+	#listContainer {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-column-gap: 20px;
+        grid-row-gap: 25px;
+	}
+}
+
+@media screen and (min-width: 725px) {
+	#listContainer {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-column-gap: 20px;
+        grid-row-gap: 25px;
+	}
+}
+
+@media screen and (min-width: 975px) {
+	#listContainer {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-column-gap: 20px;
+        grid-row-gap: 25px;
+	}
+}
+
+
