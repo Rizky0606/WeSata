@@ -1,3 +1,4 @@
+
 const createListItemTemplate = (wisata) => `
 <div class="listItem" tabindex="0">
     <div class="listItem__image">
@@ -35,7 +36,7 @@ const createDetailWisataTemplate = (wisata) => `
     <div class="list__content">
         <i class="fa-regular fa-star" tabindex="0">${wisata.rating}</i>
         <i class="far fa-building" tabindex="0">${wisata.city}</i>
-        <i class="fa-solid fa-location-dot" tabindex="0">${wisata.province}</i>
+        <i class="fa-regular fa-map-pin">${wisata.province}</i>
         <i class="fa-regular fa-map" tabindex="0">${wisata.address}</i>
     </div>
     <p class="content__description" tabindex="0">${wisata.description}</p>
@@ -62,7 +63,7 @@ const createFavoriteButtonTemplate = () => `
 
 const createFavoritedButtonTemplate = () => `
   <button aria-label="unlike this wisata" id="favoriteButton" class="favorite">
-    <i class="fa-regular fa-heart"></i>
+    <i class="fa-solid fa-heart"></i>
   </button>
 `;
 
