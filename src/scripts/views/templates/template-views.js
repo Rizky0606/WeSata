@@ -30,9 +30,9 @@ const createListAdatTemplate = (adat) => `
 
 const createDetailWisataTemplate = (wisata) => `
     <h2 class="content__title" tabindex="0">${wisata.name}</h2>
-    <center> 
-    <img src="${wisata.pictured}" alt="${wisata.name}" class="content__image">
-    </center>
+    <div class="content__image"> 
+        <img src="${wisata.pictured}" alt="${wisata.name}">
+    </div>
     <div class="list__content">
         <i class="fa-regular fa-star" tabindex="0"> ${wisata.rating}</i>
         <i class="far fa-building" tabindex="0"> ${wisata.city}</i>
@@ -45,9 +45,9 @@ const createDetailWisataTemplate = (wisata) => `
 
 const createDetailAdatTemplate = (adat) => `
     <h2 class="content__title" tabindex="0">${adat.name}</h2>
-    <center>
-    <img src="${adat.pictured}" alt="${adat.name}" class="content__image">
-    </center>
+    <div class="content__image">
+    <img src="${adat.pictured}" alt="${adat.name}">
+    </div>
     <div class="list__content-adat">
         <i class="fa-regular fa-map" tabindex="0">${adat.province}</i>
     </div>

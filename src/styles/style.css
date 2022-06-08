@@ -31,7 +31,7 @@ header{
     padding: 8px 16px;
     background-color: black;
     display: grid;
-    grid-template-columns: auto 1fr auto;
+    grid-template-columns: auto 1fr 1fr;
     position: sticky;
     top: 0;
     width: 100%;
@@ -72,7 +72,7 @@ header .title{
 /* Navbar */
 nav {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     width: 100%;
     position: relative;
     text-align: center;
@@ -91,7 +91,6 @@ nav ul{
     list-style: none;
     align-items: center;
     margin-bottom: 0;
-    padding-right: 30px;
 }
 
 nav ul li{
@@ -115,38 +114,18 @@ nav ul li:hover a{
     height: 13px;
 }
 
-nav .search-container{
-    display: flex;
-    margin: auto 0;
-    height: 35px;
-    line-height: 35px;
-    margin-right: 100px;
-}
-
-nav .search-container input{
-    width: 250px;
-    border: none;
-    outline: none;
-    background: #fff;
-    height: 100%;
-    padding: 0 10px;
-    font-size: 16px;
-}
-
-nav .search-container i{
-    background: #fff;
-    color: #FFB21B;
-    font-size: 20px;
-    padding: 8px;
-    position: relative;
-    height: 100%;
-    z-index: 1;
+#search {
+    color: #fff;
     cursor: pointer;
+    padding: 5px 10px;
+    border-radius: 40%;
 }
 
-nav .search-container i:hover{
-    color: black;
+.search-container:hover #search{
+    background-color: #fff;
+    color: #FFB21B;
 }
+
 
 /*hero*/
 .hero {
