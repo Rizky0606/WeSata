@@ -13,33 +13,33 @@ const Home = {
         </div>
         <div class="card-container">
             <div class="row">
-                <div class="col-sm-3 mx-auto">
-                    <div class="card border-0 shadow-sm p-3 mb-5 bg-body rounded" style="width: 15.5rem; height: 20rem;">
+                
+                    <div class="card border-0 shadow-sm p-3 bg-body rounded" style="width: 15.5rem; height: 20rem;">
                         <div class="card-body" style="text-align: center;">
                             <i class="fa-regular fa-thumbs-up fa-3x" style="color: #FFB21B; margin-top:35px; margin-bottom:35px;"></i>
                             <h5 class="card-title" style="margin-bottom: 25px;">Travellers Suka Layanan Kami</h5>
                             <h6 class="card-subtitle mb-2 text-muted">Berbagai macam destinasi memudahkan para traveller.</h6>
                         </div>
                     </div>
-                </div>
-                <div class="col-sm-3 mx-auto">
-                    <div class="card border-0 shadow-sm p-3 mb-5 bg-body rounded" style="width: 15.5rem; height: 20rem;">
+                
+                
+                    <div class="card border-0 shadow-sm p-3 bg-body rounded" style="width: 15.5rem; height: 20rem;">
                         <div class="card-body" style="text-align: center;">
                             <i class="fa-solid fa-people-roof fa-3x" style="color: #FFB21B; margin-top:35px; margin-bottom:35px;"></i>
                             <h5 class="card-title" style="margin-bottom: 25px;">Adat Indonesia yang Lengkap</h5>
                             <h6 class="card-subtitle mb-2 text-muted">Informasi budaya adat-istiadat di Indonesia.</h6>
                         </div>
                     </div>
-                </div>
-                <div class="col-sm-3 mx-auto">
-                    <div class="card border-0 shadow-sm p-3 mb-5 bg-body rounded" style="width: 15.5rem; height: 20rem;">
+               
+                
+                    <div class="card border-0 shadow-sm p-3 bg-body rounded" style="width: 15.5rem; height: 20rem;">
                         <div class="card-body" style="text-align: center;">
                             <i class="fa-regular fa-heart fa-3x" style="color: #FFB21B; margin-top:35px; margin-bottom:35px;"></i>
                             <h5 class="card-title" style="margin-bottom: 25px;">Fitur Like Destinasi Favorit</h5>
                             <h6 class="card-subtitle mb-2 text-muted">Simpan destinasi favoritmu hanya dengan tombol like.</h6>
                         </div>
                     </div>
-                </div>
+                
             </div>
         </div>
         
