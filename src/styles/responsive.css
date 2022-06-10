@@ -50,6 +50,14 @@
     .herosubtitle {
         font-size: 18px;
     }
+
+    .list__content {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .list__content i {
+        font-size: 20px !important;
+    }
 }
 
 @media screen and (min-width: 810px) {

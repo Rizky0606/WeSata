@@ -26,15 +26,14 @@
 
 .list__content {
     display: grid;
-    grid-template-columns: 1fr 1fr;
     justify-items: center;
-    margin: 10px;
     padding: 20px;
+    gap: 10px;
 }
 
 .list__content i {
     color: #FFB21B;
-    font-size: 20px;
+    font-size: 17px;
     
 }
 
