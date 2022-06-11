@@ -76,7 +76,7 @@ const Home = {
                         <source type="image/jpeg" srcset="assets/images-5.png">
                         <img class="lazyload" data-src="assets/images-5.png" alt="">
                     </picture>
-                    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris aliquam sodales sem. Vivamus in auctor tortor, ut tempus nulla. Nunc varius erat et dolor pretium, imperdiet ultricies turpis pulvinar. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus nec arcu vestibulum lorem sodales placerat. Nunc interdum porttitor sapien.</p>
+                    <p> Selamat datang di Website WeSata. Wesata dibuat untuk memudahkan Wisatawan mencari tempat wisata tujuannya, baik itu wisatawan lokal maupun mancanegara. menampilkan berbagai tempat wisata diseluruh Indonesia yang bisa dikunjungi dan tidak kalah menarik dengan Wisata Luar Negeri. Cari tempat Wisatamu tambahkan ke daftar favorite dan kunjungi. Selamat Ber-WeSata </p>
                 </div>
             </div>
         </div>
