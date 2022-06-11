@@ -1,6 +1,8 @@
 var serviceWorkerOption = {
   "assets": [
     "/bundle.js",
+    "/favicon.png",
+    "/manifest.json",
     "/assets/5831236.png",
     "/assets/affan-fadhlan-Orn0K8mzsmg-unsplash.jpg",
     "/assets/background.png",
@@ -9,6 +11,14 @@ var serviceWorkerOption = {
     "/assets/images-3.jpg",
     "/assets/images-4.png",
     "/assets/images-5.png",
+    "/icons/128x128.png",
+    "/icons/144x144.png",
+    "/icons/152x152.png",
+    "/icons/192x192.png",
+    "/icons/384x384.png",
+    "/icons/512x512.png",
+    "/icons/72x72.png",
+    "/icons/96x96.png",
     "/index.html"
   ]
 };
