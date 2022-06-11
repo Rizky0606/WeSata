@@ -1,4 +1,8 @@
 import 'regenerator-runtime';
+import AOS from 'aos';
+import 'aos/dist/aos.css';
+import 'lazysizes';
+import 'lazysizes/plugins/parent-fit/ls.parent-fit';
 import '../styles/style.css';
 import '../styles/responsive.css';
 import '../styles/wisata.css';
@@ -20,3 +24,5 @@ window.addEventListener('load', () => {
     app.renderPage();
     swRegister();
 });
+
+AOS.init();

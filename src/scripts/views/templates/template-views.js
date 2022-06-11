@@ -2,7 +2,7 @@
 const createListItemTemplate = (wisata) => `
 <div class="listItem" tabindex="0">
     <div class="listItem__image">
-        <img src="${wisata.pictured}" alt="${wisata.name}">
+        <img class="lazyload" data-src="${wisata.pictured}" alt="${wisata.name}">
     </div>
     <div class="listItem__content">
         <a href="${`/#/detail-wisata/${wisata.id}`}" class="listItem__title">${wisata.name}</a>
@@ -17,7 +17,7 @@ const createListItemTemplate = (wisata) => `
 const createListAdatTemplate = (adat) => `
     <div class="listItem" tabindex="0">
         <div class="listItem__image">
-            <img src="${adat.pictured}" alt="${adat.name}">
+            <img class="lazyload" data-src="${adat.pictured}" alt="${adat.name}">
         </div>
         <div class="listItem__content">
             <a href="${`/#/detail-adat/${adat.id}`}" class="listItem__title">${adat.name}</a>
