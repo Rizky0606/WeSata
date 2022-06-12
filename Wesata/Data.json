@@ -1,0 +1,622 @@
+﻿[
+  {
+   "name": "Danau Kelimutu",
+   "city": "Ende",
+   "address": "Kabupaten Ende, Pulau Flores, Nusa Tenggara Timur",
+   "pictured": "https://4.bp.blogspot.com/-aRCXaq0DW78/W1VygOk_rRI/AAAAAAAAmFE/PNLL1YIiOuMzfKRBSG6joUulaUWXwOMEACLcBGAs/s1600/8238768416_fe67ba8db7_b.jpg",
+   "description": "Danau ini merupakan danau vulkanik yang berada di puncak Gunung Kelimutu. Untuk mencapai danau indah ini, Toppers harus melakukan hiking terlebih dahulu. Keistimewaan danau yang terletak di Pulau Flores, NTT ini adalah pemandangan danau dengan tiga warna yakni hijau, putih dan biru. Setiap tahun, danau eksotik ini selalu ramai dikunjungi wisatawan mancanegara",
+   "province": "Nusa Tenggara Timur",
+   "rating": "4.5",
+   "id": "1"
+  },
+  {
+   "name": "Pantai Sumur Tiga",
+   "city": "Sabang",
+   "address": "Kecamatan Ie Meule, Sukajaya, Sabang, Pulau Weh, Provinsi Aceh",
+   "pictured": "https://disbudpar.acehprov.go.id/wp-content/uploads/6od_3346b1.jpg",
+   "description": "Pantai Sumur Tiga merupakan pantai yang terletak di gampong Ie Meulee, Pulau Weh. Pantai berpasir putih ini memiliki garis pantai yang panjang dengan air lautnya yang berwarna biru muda, lengkap dengan pepohonan kelapa yang tersebar di sepanjang bibir pantai. Tak heran kalau banyak orang menyebut Pantai Sumurtiga sebagai Hawaii-nya Sabang. Selain berselancar dan menikmati keindahan bawah laut dengan ber-snorkeling ria, Anda juga bisa menginap di cottage yang banyak terdapat di sekitar pantai",
+   "province": "Daerah Istimewa Aceh",
+   "rating": "4.8",
+   "id": "2"
+  },
+  {
+   "name": "Ngarai Sianok",
+   "city": "Bukittinggi",
+   "address": "Taman Panorama, Kayu Kubu, Kec. Guguk Panjang, Kota Bukittinggi, Sumatera Barat 26136",
+   "pictured": "https://www.pegipegi.com/travel/wp-content/uploads/2018/04/ngarai-2.jpg",
+   "description": "Ngarai Sianok merupakan sebuah lembah sempit dengan bukit-bukit bertebing curam di sekelilingnya. Di tengah lembah ini mengalirlah sungai kecil yang membuat pemandangan semakin menakjubkan. Di sini, selain bersepeda, trekking, atau berjalan-jalan ringan, Anda juga bisa berdiam diri menikmati ketenangan yang ditawarkan Ngarai Sianok. Karena suasananya yang menenangkan itulah tempat wisata ini juga disebut Lembah Pendiam",
+   "province": "Sumatera Barat",
+   "rating": "4.0",
+   "id": "3"
+  },
+  {
+   "name": "Candi Muaro Jambi",
+   "city": "Jambi",
+   "address": "Desa Nuaro Jambi, Kecamatan Muaro Sebo, Kabupaten Muaro Jambi, Provinsi Jambi",
+   "pictured": "https://pariwisataindonesia.id/wp-content/uploads/2020/08/candi-muara-jambi-foto-by-labirutourcom.jpg",
+   "description": "Tempat wisata bersejarah ini merupakan perpaduan peninggalan Kerajaan Sriwijaya dan Kerajaan Melayu dan diperkirakan sudah ada sejak abad 11 Masehi. Tempatnya yang menarik dan kaya akan nilai sejarah membuat Candi Muaro Jambi diresmikan sebagai Kawasan Wisata Sejarah Terpadu (KWST) pada 2012 silam oleh mantan Presiden Susilo Bambang Yudhoyono. Tidak hanya wisatawan domestik, beberapa tahun belakangan wisatawan asing pun mulai berdatangan demi bisa menyaksikan langsung tempat yang dulunya pernah dijadikan sebagai salah satu pusat tempat peribadahan agama Budha Tantri Mahayana di negeri ini",
+   "province": "Jambi",
+   "rating": "4.5",
+   "id": "4"
+  },
+  {
+   "name": "Museum Sultan Mahmud Badaruddin",
+   "city": "Palembang",
+   "address": "Jl. Sultan Mahmud Badarudin, 19 Ilir, Kec. Bukit Kecil, Kota Palembang, Sumatera Selatan 30113",
+   "pictured": "https://sda.pu.go.id/balai/bbwssumatera8/wp-content/uploads/2018/02/MUSEUM-SMB-II-848x480.jpg",
+   "description": "Tempat wisata bersejarah ini berlokasi di dekat kawasan wisata Benteng Kuto Besak. Museum yang terdiri dari 2 lantai ini merupakan bangunan tua peninggalan Belanda. Di sini, Anda bisa menjumpai beragam koleksi benda unik dari berbagai cabang ilmu, mulai dari arkeologi, biologi, etnografi, seni rupa, keramikologi, sampai numismatika yang hingga kini masih terawat dengan baik. Tidak hanya itu saja, Anda pun bisa melihat-lihat koleksi uang kuno, pakaian adat, model rumah limas, kain songket, alat musik, dan lain sebagainya. Tempat wisata ini sendiri dibuka muali pukul 08.00 pagi sampai 16.00 sore",
+   "province": "Sumatera Selatan",
+   "rating": "4.5",
+   "id": "5"
+  },
+  {
+   "name": "Taman Nasional Way Kambas",
+   "city": "Lampung Timur",
+   "address": "Kabupaten Lampung Timur, Lampung",
+   "pictured": "https://www.batiqa.com/upload/news/l/whatsapp-image-2019-10-31-at-22448-pm_1uwj7.jpeg",
+   "description": "Taman Nasional Way Kambas dikelola oleh Kementerian Perhutanan. Tempat wisata ini pertama kali dibangun pada tahun 1985 dan merupakan sekolah gajah pertama di Indonesia. Selain merupakan tempat konservasi dan pelatihan gajah, tempat tersebut juga terdapat International Rhino Foundation yang difungsikan sebagai tempat penangkaran badak dari kepunahan. Untuk bisa masuk ke Taman Nasional Way Kambas, Anda hanya akan dikenai tiket masuk sebesar Rp30.000 per orang",
+   "province": "Lampung",
+   "rating": "4.3",
+   "id": "6"
+  },
+  {
+   "name": "Kawah Putih",
+   "city": "Bandung",
+   "address": "Desa Alam Endah, Kecamatan Rancabali, Kabupaten Bandung, Jawa Barat",
+   "pictured": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit19201280gsm/events/2021/02/04/b9a441ee-a409-4897-b202-d20ddf1e558f-1612405052139-64d56f2449877ca5d518b0924113893f.jpg",
+   "description": "Kawah Putih terletak sekira 50 km arah selatan Kota Bandung, objek wisata ini merupakan sebuah danau vulkanis yang dihasilkan dari letusan Gunung Patuha. Karena tercampur dengan unsur belerang, tanah di kawasan wisata ini seluruhnya berwarna putih. Yang menarik, danau di sini juga bisa berubah warna sesuai dengan kadar belerang, suhu, serta iklim. Karena letaknya berada pada ketinggian 2.400 dpl, cuaca di sini terbilang cukup dingin sehingga Anda disarankan untuk memakai jaket tebal. Untuk bisa menikmati keindahan Kawah Putih, Anda cukup membayar tiket masuk seharga Rp15.000. Di lokasi, ada banyak fasilitas yang bisa Anda nikmati, mulai dari musala, restoran, area parkir, dan transportasi dari gerbang sampai kawah",
+   "province": "Jawa Barat",
+   "rating": "4.6",
+   "id": "7"
+  },
+  {
+   "name": "Pantai Siung",
+   "city": "Gunungkidul",
+   "address": "Dusun Duwet, Kelurahan Purwodadi, Kecamatan Tepus, Kabupaten Gunungkidul, Daerah Istimewa Yogyakarta",
+   "pictured": "https://jogjaonstage.com/wp-content/uploads/2019/01/pantaisiungjogjakarta.jpg",
+   "description": "Pantai yang terletak di Kecamatan Tepus ini memiliki pesona yang sungguh memikat. Tidak hanya pasir putih dan air lautnya yang biru, suasana di pantai ini juga terbilang tenang karena belum banyak dikunjungi orang, sehingga sangat cocok buat Anda yang ingin berelaksasi menyegarkan pikiran. Sekadar saran jika ingin ke sini, pakailah kendaraan pribadi karena jalan menuju lokasi dikelilingi oleh perbukitan kapur dan ladang palawija. Meski memakan waktu 2 jam dari pusat Kota Jogja, rasa lelah akan terbayar lunas begitu Anda sampai di lokasi",
+   "province": "Daerah Istimewa Yogyakarta",
+   "rating": "4.5",
+   "id": "8"
+  },
+  {
+   "name": "Air Terjun Kedung Pedut",
+   "city": "Kulon Progo",
+   "address": "Jl. Kutogiri Gunung Kelir, Kembang, Jatimulyo, Kec. Girimulyo, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta 55674",
+   "pictured": "https://travelspromo.com/wp-content/uploads/2020/04/20-air-terjun-bertingkat-Fendy-Sapto-scaled-e1588247479355.jpg",
+   "description": "Berlokasi di Kutogiri Gunung Kelir objek wisata air ini sangat cocok dikunjungi Anda yang merasa penat dengan rutinitas sehari-hari. Suara gemericik air ditambah hawa sejuk khas pegunungan dijamin akan membuat pikiran Anda segar kembali. Di sini, Anda bisa puas bermain air sampai sore tanpa perlu mengeluarkan banyak uang. Yang menarik dari objek wisata yang satu ini adalah warna airnya ada dua macam: biru dan putih. Ini karena warga setempat masih sangat telaten menjaga keasrian tanah kelahiran mereka. Untuk menuju ke lokasi curug (air terjun), Anda diharuskan menapaki jalur setapak selama kurang lebih 15 menit",
+   "province": "Daerah Istimewa Yogyakarta (DIY)",
+   "rating": "4.5",
+   "id": "9"
+  },
+  {
+   "name": "Kepulauan Derawan",
+   "city": "Berau",
+   "address": "Kabupaten Berau, Kalimantan Timur",
+   "pictured": "https://www.scmedia.id/wp-content/uploads/2019/07/kepulauan-derawan.jpg",
+   "description": "Pulau cantik ini sendiri menawarkan pesona laut biru dengan pemandangan bawah laut yang luar biasa memesona. Begitu cantiknya, objek wisata ini sampai berhasil menduduki peringkat ketiga sebagai tempat menyelam bertaraf internasional. Di sini, Anda bisa bebas bermain dengan penyu sambil berjemur di pantai pasir putihnya yang menawan. Selain menyediakan peralatan menyelam, di sini juga terdapat cottage dan restoran untuk menunjang kebutuhan liburan para wisatawan. Untuk menuju ke sini pun aksesnya sangat mudah, Anda hanya perlu menuju Tanjung Redep dengan menggunakan pesawat DAS, Deraya, atau KAL Star, lalu dilanjut dengan menyewa motorboat menuju Pulau Derawan",
+   "province": "Kalimantan Timur",
+   "rating": "4.5",
+   "id": "10"
+  },
+  {
+   "name": "Pura Luhur Uluwatu",
+   "city": "Badung",
+   "address": "Desa Adat Pecatu, Kecamatan Kuta Selatan, Kabupaten Badung, Bali",
+   "pictured": "https://www.bulgarihotels.com/.imaging/bhr-wide-big-jpg/dam/BALI/WHAT-S-ON/IN-BALI/shutterstock_1433767703.jpg/jcr%3Acontent",
+   "description": "Pura ini sendiri terletak di atas batu karang yang terjal dengan ketinggian sekitar 97 meter dari permukaan laut. Dari atas tebing, wisatawan bisa menyaksikan kemegahan Samudera Hindia yang biru sejauh mata memandang. Tidak hanya itu, letak pura yang berada di ujung barat daya Pulau Bali membuat tempat wisata ini digadang-gadang wisatawan sebagai lokasi paling baik di antero Bali untuk melihat matahari terbenam. Pura Watu juga dikenal sebagai lokasi terbaik untuk melihat pertunjukan Tari Kecak yang biasanya dimulai pukul 18.15 persis ketika matahari mulai kembali ke peraduannya",
+   "province": "Bali",
+   "rating": "4.6",
+   "id": "11"
+  },
+  {
+   "name": "Gunung Rinjani",
+   "city": "Lombok Timur",
+   "address": "Kecamatan Sembalun, Kabupaten Lombok Timur, NTB",
+   "pictured": "https://media.istockphoto.com/photos/rinjani-mountain-picture-id864633344?b=1&k=20&m=864633344&s=170667a&w=0&h=ZVPOK53iS8Nq1D0hT1Is4P5INH2VjMPNMhsJpG5M78g=",
+   "description": "Gunung ini merupakan gunung berapi tertinggi kedua yang ada di Indonesia ketinggian 3.726 mdpl. Setiap tahunnya, ada ratusan ribu pendaki yang berjuang menaklukkan puncak Rinjani pada ketinggian 3.726 mdpl tersebut, terlebih pada saat menjelang 17 Agustus. Di sini juga terdapat hamparan bunga edelweiss dan Danau Segara Anak yang merupakan spot menarik para pendaki untuk mendirikan tenda, mandi air hangat, maupun memancing ikan",
+   "province": "Nusa Tenggara Barat (NTB)",
+   "rating": "4.5",
+   "id": "12"
+  },
+  {
+   "name": "Pantai Losari",
+   "city": "Makassar",
+   "address": "Jl. Metro Tanjung Bunga, Desa Maloku, Ujung Pandang, Makassar, Sulawesi Selatan",
+   "pictured": "https://sulawesion.com/wp-content/uploads/2021/03/PANTAI-LOSARI-700x375.jpg",
+   "description": "Pantai ini merupakan tempat wisata yang menjadi primadona warga sekitar dan siapa pun yang berkunjung ke Makassar. Di sini, Anda bisa duduk santai di pinggir pantai menikmati angin sepoi-sepoi ditemani camilan khas yakni pisang epe. Suasana pantai akan semakin ramai menjelang sore karena Losari adalah tempat favorit banyak orang untuk melihat matahari terbenam. Selain itu, Anda juga tidak diperkenankan berenang di sini karena pantai ini cukup dalam",
+   "province": "Sulawesi Selatan",
+   "rating": "3.5",
+   "id": "13"
+  },
+  {
+   "name": "Taman Nasional Kepualauan Togean",
+   "city": "Tojo Una-Una",
+   "address": "Kabupaten Tojo Una-Una, Sulawesi Tengah",
+   "pictured": "https://cdn-image.hipwee.com/wp-content/uploads/2016/12/hipwee-Kepulauan-Togean-1000x630.jpg",
+   "description": "Kepulauan ini merupakan tempat yang terkenal kaya akan terumbu karang serta biota laut yang langka dan dilindungi. Oleh karena itulah, kawasan pantai di kepulauan ini sangat cocok jika dijadikan titik menyelam atau sekadar snorkeling, terutama di Pulau Kadadiri. Selain lautnya biru dan berpasir putih, pulau ini juga diselimuti oleh vegetasi tumbuhan yang subur dan rimbun, serta dihiasi oleh bukit-bukit karang yang cantik. Kecantikan-kecantikan itulah yang membuat banyak wisatawan rela jauh-jauh ke Sulawesi Tengah demi bisa merasakan sedikit potongan surga di tanah Sulawesi",
+   "province": "Sulawesi Tengah",
+   "rating": "4.6",
+   "id": "14"
+  },
+  {
+   "name": "Danau Sentani",
+   "city": "Jayapura",
+   "address": "Kabupaten Jayapura, Papua",
+   "pictured": "https://www.pegipegi.com/travel/wp-content/uploads/2018/12/danau-sentani.jpg",
+   "description": "Satu hal yang menjadi tempat wisata ini begitu menarik adalah keberadaan 22 pulau yang terdapat di sekitar danau. Meskipun sudah disahkan menjadi objek wisata, pemandangan alam di sekitar danau masih terjaga dengan baik. Hal inilah yang semakin meningkatkan minat wisatawan untuk menjejakkan kaki di danau seluas 9.360 hektar ini. Karena hutan mangrove dan kekayaan biota lautnya yang tak terbantahkan, Danau Sentani selalu jadi tempat menyelam favorit para pelancong",
+   "province": "Papua",
+   "rating": "4.5",
+   "id": "15"
+  },
+  {
+   "name": "Goa Putri",
+   "city": "Baturaja",
+   "address": "Desa Padang Bindu, Kecamatan Semindang Aji, Kabupaten Ogan Komering Ulu, Sumatera Selatan 32155",
+   "pictured": "https://southsumatratourism.com/wp-content/uploads/2018/02/DSC00649.jpg",
+   "description": "Goa Putri yang terletak di Bukit Barisan di Desa Padang Bindu ini memiliki panjang 159 meter, lebar 8 hingga 20 meter, dengan ketinggian mencapai 20 meter. Di dalamnya mengalir Sungai Semuhun, anak Sungai Ogan, yang mengalir dari arah barat ke timur. Saat akan masuk, pengunjung dianjurkan mengetuk pintu gua sebanyak tiga kali, yang menandakan salam untuk para leluhur. Di bagian dalam yang temaram dan berhawa sejuk, pengunjung akan mendengar gemercik aliran sungai yang ikut mengiringi selama perjalanan",
+   "province": "Sumatera Selatan",
+   "rating": "4.4",
+   "id": "16"
+  },
+  {
+   "name": "Taman Nasional Ujung Kulon",
+   "city": "Pandeglang",
+   "address": "Kecamatan Sumur dan Cimanggu, Kabupaten Pandeglang, Banten",
+   "pictured": "https://www.pegipegi.com/travel/wp-content/uploads/2018/10/shutterstock_1178292157.jpg",
+   "description": "Taman Nasional Ujung Kulon adalah sebuah Kawasan Taman Nasional yang terletak di ujung paling barat pulau Jawa. Luas Kawasan Taman Nasional Ujung Kulon adalah 122.956 Ha, dan 44.337 Ha dari keseluruhan luas Kawasan Taman Nasional Ujung Kulon merupakan perairan. Dengan luas area yang mencapai 122.956 Ha, kawasan Taman Nasional Ujung Kulon menjadi taman nasional sekaligus tempat wisata alam yang sangat luas dan menarik untuk dijelajahi. Di kawasan ini, anda akan dimanjakan dengan pemandangan alam yang memuaskan mata. Di beberapa wilayah, anda bahkan dapat melihat satwa-satwa liar yang hidup dengan bebas",
+   "province": "Banten",
+   "rating": "4.4",
+   "id": "17"
+  },
+  {
+   "name": "Kebun Raya Bogor",
+   "city": "Bogor",
+   "address": "Jl. Ir. H. Juanda No.13, Paledang, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16122",
+   "pictured": "https://kebunraya.id/images/about/side-bogor.jpg",
+   "description": "Kebun Raya Bogor adalah sebuah kebun botani besar yang terletak di Kota Bogor, Indonesia. Luasnya mencapai 87 hektar dan memiliki 15.000 jenis koleksi pohon dan tumbuhan. Tiket masuknya Rp 16.500. Salah satu daya tarik utama Kebun Raya Bogor adalah bunga bangkai (Amorphophalus titanum) karena saat-saat mendekati mekar akan mengeluarkan bau bangkai yang menyengat",
+   "province": "Jawa Barat",
+   "rating": "4.7",
+   "id": "18"
+  },
+  {
+   "name": "Gili Trawangan",
+   "city": "Lombok Utara",
+   "address": "Kabupaten Lombok Utara, Nusa Tenggara Barat",
+   "pictured": "https://www.asliindonesia.net/wp-content/uploads/2015/08/gili-trawangan-1.jpg",
+   "description": "Dengan kombinasi langit biru dengan semburat awan putih, jernihnya air laut dibingkai pasir putih menjadikan Gili Trawangan sebagai tujuan wisata populer baik bagi wisatawan dalam negeri maupun luar negeri. Selain pantai dan alam bawah laut, tempat wisata Nusantara yang berada di Provinsi Nusa Tenggara Barat ini juga memiliki berbagai lansekap menakjubkan dan juga spot-spot foto yang instagramable",
+   "province": "Nusa Tenggara Barat",
+   "rating": "4.0",
+   "id": "19"
+  },
+  {
+   "name": "Candi Borobudur",
+   "city": "Magelang",
+   "address": "Jl. Badrawati, Kw. Candi Borobudur, Borobudur, Kec. Borobudur, Kabupaten Magelang, Jawa Tengah",
+   "pictured": "https://mmc.tirto.id/image/otf/700x0/2017/09/05/Borobudur--ISTOCK_ratio-16x9.jpg",
+   "description": "Candi Borobudur merupakan candi Budha terbesar di dunia dengan luas tak kurang dari 123 x 123 meter, candi yang dibangun pada masa kerajaan Mataram kuno ini merupakan warisan budaya dan sejarah Indonesia yang terkenal akan arsitektur yang memukau. Berbagai relief yang menceritakan mengenai berbagai ajaran dalam agama Budha dan perjalanan hidup Sidharta Gautama hingga mencapai pencerahan sempurna bisa Toppers temukan di tempat wisata favorit asal Indonesia. Candi Borobudur sendiri memiliki total tak kurang dari 504 arca Buddha dan 2.672 panel relief pada dinding-dindingnya",
+   "province": "Jawa Tengah",
+   "rating": "4.5",
+   "id": "20"
+  },
+  {
+   "name": "Taman Nasional Komodo",
+   "city": "Manggarai",
+   "address": "Kecamatan Komodo, Kabupaten Manggarai, Nusa Tenggara Timur",
+   "pictured": "https://img.okezone.com/content/2020/11/07/408/2305884/10-alasan-kenapa-anda-harus-berkunjung-ke-taman-nasional-komodo-qiIvTUbo6g.jpg",
+   "description": "Pulau ini merupakan habitat kadal purba raksasa Komodo yang hanya bisa ditemukan di Indonesia. Pulau Komodo terdiri dari tiga pulau utama yaitu Pulau Komodo, Pulau Rinca, dan Pulau Padar. Taman Nasional Komodo terletak di ujung paling barat provinsi Nusa Tenggara Timur. Tidak hanya dapat menyaksikan hewan prasejarah Komodo saja, terdapat beberapa destinasi wisata lainnya di Kawasan Taman Nasional Komodo yang menarik untuk dikunjungi. Antara lain Labuan Bajo, Pink Beach, Wisata Budaya Kampung Melo, dan snorkeling di Pulau Manjarite. Di Labuan Bajo, terdapat salah satu resort terkenal yang didesain mirip seperti Santorini, Yunani. Selain itu, Anda dapat melakukan trip menggunakan cruise untuk menikmati keindahan jajaran Kepulauan Komodo dari atas laut.",
+   "province": "Nusa Tenggara Timur (NTT)",
+   "rating": "4.7",
+   "id": "21"
+  },
+  {
+   "name": "Taman Nasional Bunaken",
+   "city": "Manado",
+   "address": "Kecamatan Wori, Kotamadya Manado, Kabupaten Minahasa, Sulawesi Utara",
+   "pictured": "https://www.goodnewsfromindonesia.id/uploads/post/large-maxresdefault-2-d80bd1053e7055832a733b7937993685.jpg",
+   "description": "Diresmikan sejak tahun 1991, Kawasan Taman Nasional Bunaken memiliki luas mencapai 89.065 hektar. Kawasan ini meliputi lima pulau utama yaitu Pulau Bunaken, Pulau Manado Tua, Pulau Nain, Pulau Mantehage, dan Pulau Siladen. Tidak heran jika Taman Nasional Bunaken memiliki keanekaragaman biota laut yang kaya karena terletak di area pusat Segitiga Terumbu Karang yang membentang di perairan Indonesia, Malaysia, dan Timor Leste. Terdapat kurang lebih 390 spesies terumbu karang, 2.000 spesies ikan karang, 200 spesies moluska, dan 8 spesies mamalia laut pada Kawasan Taman Nasional Bunaken. Dari Kota Manado menuju Bunaken hanya membutuhkan waktu kurang lebih 40 menit saja",
+   "province": "Sulawesi Utara",
+   "rating": "4.6",
+   "id": "22"
+  },
+  {
+   "name": "Raja Ampat",
+   "city": "Raja Ampat",
+   "address": "Kabupaten Raja Ampat, Papua Barat",
+   "pictured": "https://asset.kompas.com/crops/28S0TkvG7koDd1XpB5m9t-703Ww=/0x0:780x520/780x390/data/photo/2021/03/21/605753630590a.jpg",
+   "description": "Kepulauan Raja Ampat terdiri dari empat pulau utama yaitu Pulau Waigeo, Pulau Batanta, Pulau Salawati, dan Pulau Misool. Bagi pecinta diving dan snorkeling, Raja Ampat adalah surganya. Tidak heran, Raja Ampat merupakan surga bagi 75% spesies karang yang ada di dunia, berdasarkan data dari The Nature Conservancy and Conservation International. Terdapat kurang lebih 1.318 spesies ikan, 699 spesies moluska, dan 537 spesies terumbu karang tersebar di kedalaman laut Raja Ampat",
+   "province": "Papua Barat",
+   "rating": "5",
+   "id": "23"
+  },
+  {
+   "name": "Wakatobi",
+   "city": "Wakatobi",
+   "address": "Kecamatan Wangi-Wangi, Kabupaten Wakatobi, Sulawesi Tenggara",
+   "pictured": "https://authentic-indonesia.com/wp-content/uploads/2019/10/Tourist-Destinations-in-Wakatobi.jpg",
+   "description": "Satu lagi kekayaan biota laut Indonesia dapat ditemukan di Kepulauan Wakatobi, Provinsi Sulawesi Tenggara. 750 dari 820 jenis karang di dunia dapat ditemukan di Wakatobi. Karena potensi tersebut, pantaslah Wakatobi ditetapkan sebagai Cagar Biosfer Bumi Ke-8 di Indonesia oleh UNESCO pada tahun 2012. Kepulauan Wakatobi terbagi menjadi empat pulau utama yaitu Pulau Binongko, Pulau Tomia, Pulau Kaledupa, dan Pulau Wangi-wangi. Layaknya di Pantai Lovina, Bali, jika Anda berkunjung ke Pulau Wangi-wangi tepatnya di Pulau Kapota, Anda dapat menyaksikan atraksi dari puluhan lumba-lumba yang berenang dengan cantiknya di perairan tersebut",
+   "province": "Sulawesi Tenggara",
+   "rating": "4.5",
+   "id": "24"
+  },
+  {
+   "name": "Bukit Warinding",
+   "city": "Sumba Timur",
+   "address": "Desa Pambotanjara, Kecamatan Kota Waingapu, Kabupaten Sumba Timur, Nusa Tenggara Timur (NTT)",
+   "pictured": "https://raunraundotcom.files.wordpress.com/2017/11/sumba-bukit-wairinding.jpg",
+   "description": "Bukit Warinding adalah salah satu kawasan perbukitan yang terletak di Desa Pambota Jara, Kecamatan Pandawai, Sumba Timur. Untuk mencapai Bukit Warinding dibutuhkan waktu sekitar kurang lebih 30 menit dari pusat kota Waingapu yakni Ibu kota dari kabupaten Sumba Timur. Warna bukit akan berbeda seiring dengan bergantinya musim. Jika musim kemarau, warnanya akan menjadi semi coklat. Sementara, jika musim hujan tiba akan berubah menjadi hijau menyegarkan. Sore hari adalah salah satu waktu yang tepat untuk berkunjung menikmati sensasi matahari terbenam dari atas Bukit Warinding",
+   "province": "Nusa Tenggara Timur (NTT)",
+   "rating": "4.8",
+   "id": "25"
+  },
+  {
+   "name": "Danau Toba",
+   "city": "Medan",
+   "address": "Kabupaten Toba Samosir, Medan, Sumatera Utara",
+   "pictured": "https://awsimages.detik.net.id/community/media/visual/2020/09/13/danau-toba_169.jpeg?w=780&q=90",
+   "description": "Danau Toba adalah danau vulkanik terbesar di dunia yang menjadi wisata unggulan Sumatera Utara. Danau ini memiliki panjang 100 kilometer, lebar 30 kilometer, dan kedalaman 505 meter. Di tengah Danau Toba terdapat pulau berpenghuni yaitu Pulau Samosir yang juga menjadi daya tarik utamanya.  Ada juga tempat wisata yang terkenal yaitu wisata air rangat tepatnya di bawah kaki gunung pusuk buhit, air rangat itu adalah air hangat yang berasal dari gunung yang meletus dan Pusuk Buhit sendiri adalah sebuah gunung aktif yang sangat disakralkan oleh etnis Batak",
+   "province": "Sumatera Utara",
+   "rating": "4.7",
+   "id": "26"
+  },
+  {
+   "name": "Kawah Ijen",
+   "city": "Banyuwangi, Bondowoso",
+   "address": "Perbatasan Kabupaten Banyuwangi dan Kabupaten Bondowoso, Jawa Timur",
+   "pictured": "https://theworldtravelguy.com/wp-content/uploads/2021/07/DJI_0126_1200.jpg",
+   "description": "Kawah Ijen memiliki tingkat keasaman hingga titik nol, sehingga dapat melarutkan dengan mudahnya benda apa saja yang masuk kedalamnya. Karena tingkat keasaman yang dimilikinya berbaur dengan pancaran sinar matahari, membuat warna kawah ijen menjadi berwarna hijau tosca yang sangat cantik. Menikmati pemandangan matahari terbit dari Kawah Ijen juga merupakan salah satu yang terbaik. Datanglah pada bulan Agustus, karena matahari akan terlihat lebih jelas. Dan yang tidak boleh luput dari list tentunya fenomena api biru Kawah Ijen! Karena di dunia, fenomena api biru hanya dapat ditemukan di Indonesia dan Islandia saja. Fenomena api biru terjadi karena pertemuan antara zat belerang yang menguap di udara dengan oksigen. Fenomena unik tersebut dapat disaksikan mulai dari dini hari mulai pukul 01.00 hingga 05.00",
+   "province": "Jawa Timur",
+   "rating": "4.5",
+   "id": "27"
+  },
+  {
+   "name": "Gua Lemo",
+   "city": "Toraja Utara",
+   "address": "Desa Sandan Uai, Kecamatan Sanggalangi, Kabupaten Toraja Utara, Sulawesi Selatan",
+   "pictured": "https://profil.digitaldesa.id/uploads/73.18.33.2003/wisata/b75c7ba91ee517fcc368b529782b3fb4.jpg",
+   "description": "Tata cara pemakaman warga bangsawan Toraja yang khas menjadi daya tarik tersendiri bagi wisatawan untuk melihat langsung liang makam yang ada di dalam batu gua. Perbukitan kapur yang bercorak keputihan memberi rona warna tersendiri sehingga makam jauh dari kesan angker. Meski menjadi liang makam, Lemo memiliki pesona tersendiri. Pemandangan stalaktit dan stalakmit gua memberikan rona warna alam yang epic. Sinar matahari yang muncul dari sela-sela gua memberi cahaya sehingga kontur warna gua terlihat cantik. Dari lubang-lubang gua itu pula pengunjung dapat melihat pemandangan alam di sekitarnya yang tak kalah bagus",
+   "province": "Sulawesi Selatan",
+   "rating": "4.6",
+   "id": "28"
+  },
+  {
+   "name": "Desa Pallawa",
+   "city": "Toraja Utara",
+   "address": "Desa Pallawa, Kecamatan Sesean, Kabupaten Toraja Utara, Sulawesi Selatan",
+   "pictured": "https://1.bp.blogspot.com/-0UKcm3s2jiU/VzPCd_Qy5oI/AAAAAAAAB50/C4Ldhfn2KI8p57qA-REVWYuZQEUI8ofUwCLcB/s1600/Desa%2BAdat%2BPallawa%2BToraja%2BUtara.JPG",
+   "description": "Tempat wisata Tana Toraja kali ini merupakan kawasan desa yang bersejarah, tempat di mana rumah adat Tongkonan, rumah adat khas Sulawesi Selatan, yang paling tua di Tana Toraja dan masih terjaga hingga sekarang. Untuk mencapai ke sana, Anda harus menempuh perjalanan selama tujuh jam dari kota Makassar. Sesampainya di desa, Anda akan melihat lingkungan yang masih sangat asri, dengan atmosfer udara yang jauh lebih sejuk dari kota Makassar dan lokasi desa ini berada di wilayah perbukitan yang terjal. Terdapat 11 rumah Tongkonan dengan alat penumbuk padi tradisional di desa ini. Pemilik aslinya tidak lagi menempati rumah ini, sebab ada keluarga yang membeli semua rumah adat yang ada di kampung dan warga asli desa tinggal di belakang rumah Tongkonan. Konon katanya rumah Tongkonan ini adalah saksi bisu kerasnya perang antar-desa",
+   "province": "Sulawesi Selatan",
+   "rating": "4.5",
+   "id": "29"
+  },
+  {
+   "name": "Kolam Alam Limbong",
+   "city": "Toraja Utara",
+   "address": "Jl. Singki, Kecamatan Rantepao, Kabupaten Toraja Utara, Sulawesi Selatan",
+   "pictured": "http://www.ruangmedia.com/wp-content/uploads/2019/12/Kolam-Alam-Limbong.jpg",
+   "description": "Kolam alam ini adalah telaga kecil yang letaknya dua kilometer dari kota Rantepao. Pemandangannya sangat indah, tebing batu cadas dan hijaunya air berpadu menghasilkan pemandangan yang menarik. Akses menuju kolam juga sudah baik. Fasilitasnya pun lengkap, termasuk keberadaan beberapa rumah makan dan toilet. Anda juga bisa bersepeda air sambil melihat rindangnya pepohonan yang menjorok ke perairan. Nyanyian burung yang bersorak-sorai turut meramaikan pesona alam di sekitar telaga, tebing yang tinggi memantulkan gema alam dan menghadirkan relaksasi",
+   "province": "Sulawesi Selatan",
+   "rating": "4.0",
+   "id": "30"
+  },
+  {
+   "name": "Gumuk Pasir Sumalu",
+   "city": "Toraja Utara",
+   "address": "Rantebua Sumalu, Kecamatan Rantebua, Kabupaten Toraja Utara, Sulawesi Selatan 91853",
+   "pictured": "https://profil.digitaldesa.id/uploads/73.18.33.2003/wisata/5746f1417112f6554ec4340f18837d9f.jpg",
+   "description": "Tempat Wisata Tana Toraja ini bernama Gumuk Pasir Sumalu, yang dulunya sering disebut dengan nama Bukit Pa’buyan. Area pasir ini bukan sembarang gundukan, pasir yang mudah terbawa angin melukiskan pemandangan yang indah nan artistik. Tak ayal, jika berfoto di tempat ini selalu menghasilkan foto yang ciamik. Untuk sampai ke gumuk pasir, Anda harus menempuh perjalanan dari rute Rantepao dan memakan waktu lebih dari satu jam (jarak 25 kilometer)",
+   "province": "Sulawesi Selatan",
+   "rating": "4.6",
+   "id": "31"
+  },
+  {
+   "name": "Bonggakaradeng",
+   "city": "Tana Toraja",
+   "address": "Kecamatan Bonggakaradeng, Kabupaten Tana Toraja, Sulawesi Selatan",
+   "pictured": "https://1.bp.blogspot.com/-lrAt8UtUZsk/V9ql232a3ZI/AAAAAAAACgA/zUlOF0rB7_gRdQAMOOtsHVYd8Z6uGUYJQCLcB/s1600/IMG_20160914_160123.jpg",
+   "description": "Bonggakaradeng adalah sebuah kecamatan yang ada di Kabupaten Tana Toraja Sulawesi Selatan. Wilayah ini memiliki destinasi wisata yang mempertontonkan bentang alam yang luas dan padang rumput hijau. Daya tarik utamanya adalah pemandangan barisan gunung yang seperti permadani yang dibelah aliran sungai. Lokasi bukit Teletubies adalah area paling baik untuk melihat hamparan pegunungan dan menikmati atmosfer pedesaan. Area ini sangat sesuai untuk yang mencintai kegiatan berkemah dan aktivitas alam bebas. Anda bisa melihat burung beterbangan dengan perbukitan Ollon yang terhampar luas, sungai dengan aliran air yang jernih, memanjakan mata dengan pemandangan alami yang begitu asri. Saat matahari terbit, akan ada awan kabut yang menyelimuti perkebunan dengan suhu yang sejuk",
+   "province": "Sulawesi Selatan",
+   "rating": "4.5",
+   "id": "32"
+  },
+  {
+   "name": "Taman Nasional Bantimurung",
+   "city": "Maros",
+   "address": "Kabupaten Maros, Sulawesi Selatan",
+   "pictured": "https://cdn.nativeindonesia.com/foto/taman-nasional-bantimurung/Taman-Nasional-Bantimurung-Bulusaraung.jpg",
+   "description": "Daerah ini menjadi Taman Nasional karena terdapat kawasan karst terbesar kedua di dunia setelah Guangzhou, China. Taman prasejarah Leang Leang memiliki luas sebesar 43.750 hektar dengan 286 gua, 30 di antaranya merupakan gua bersejarah. Karakteristik jenis batuan yang ada di Maros ini sama persis seperti yang ada di Guangzhou dan Teluk Halong, Vietnam. Area ini merupakan tempat yang edukatif, karena pengunjung dapat melihat secara langsung bukti nyata keberadaan manusia prasejarah. Bukti tapak tangan manusia purba terlukis di dinding-dinding gua. Mereka juga meninggalkan gambar-gambar hewan seperti babi hutan, ikan dan manusia. Gua karst menjadi tempat tinggal bagi manusia purbakala karena kondisi tanahnya yang subur dan pasokan air tanah yang banyak sehingga sangat baik untuk bertahan hidup",
+   "province": "Sulawesi Selatan",
+   "rating": "3.5",
+   "id": "33"
+  },
+  {
+   "name": "Rammang-Rammang",
+   "city": "Maros",
+   "address": "Desa Salenrang, Kecamatan Bontoa, Kabupaten Maros, Sulawesi Selatan",
+   "pictured": "https://putratoursmakassar.co.id/wp-content/uploads/2020/11/Rammang-Rammamg-3.jpg",
+   "description": "Rammang-Rammang adalah tempat wisata Tana Toraja yang memperlihatkan pemandangan pegunungan karst Maros Pangkep. Wilayah ini telah menjadi taman nasional geopark yang dilindungi oleh UNESCO. Pemandangannya sangat indah persis seperti yang ada di film Avatar The Legend of Aang. Perbukitan karst yang menjulang tinggi, serta perairan luas yang menghiasinya membuat wisatawan tak sabar untuk mengabadikan momen di area yang epic ini. Pengunjung diperbolehkan menaiki perahu sambil melihat pemandangan alam yang terbentang luas. Waktu yang sempurna untuk menikmati pemandangan adalah saat pagi hari, saat tempat ini masih diselimuti kabut yang kemudian perlahan hilang setelah munculnya matahari",
+   "province": "Sulawesi Selatan",
+   "rating": "4.7",
+   "id": "34"
+  },
+  {
+   "name": "Gunung Nona",
+   "city": "Enrekang",
+   "address": "Jl. Poros Enrekang-Makale, Kecamatan Anggeraja, Kabupaten Enrekang, Sulawesi Selatan",
+   "pictured": "https://journeyofindonesia.com/media/k2/items/cache/d58b452714c2b4589168f99f82630695_XL.jpg",
+   "description": "Gunung Nona menjadi terkenal karena namanya yang berasal dari rupa dan bentuk gunung. Konon katanya bentuk gunungnya yang mirip dengan kelamin wanita, maka warga setempat menamai gunung ini ‘gunung nona’. Banyak hal yang bisa dilakukan di sini, terutama mengagumi keindahan alam yang mengesankan. Tanahnya yang subur dan lanskap Toraja yang unik menjadi daya tarik tersendiri",
+   "province": "Sulawesi Selatan",
+   "rating": "4.0",
+   "id": "35"
+  },
+  {
+   "name": "To’ Tombi",
+   "city": "Toraja Utara",
+   "address": "Desa Benteng Mamullu, Kecamatan Kapala Pitu, Kabupaten Toraja Utara, Sulawesi Selatan",
+   "pictured": "https://3.bp.blogspot.com/-VSluEcZ8ACY/XJ29S9LDQLI/AAAAAAAACII/JO4PcOz0Ss0e-yOUmVEu1vlcZ7irYrkNACLcBGAs/w1200-h630-p-k-no-nu/destinasi-wisata-kampung-lolai-pesona-negeri-di-atas-awan.JPG",
+   "description": "Tempat Wisata Tana Toraja yang pas dijadikan destinasi berkemah adalah To’tombi. Menawarkan udara yang sejuk, dan memiliki ketinggian 1300 mdpl, pengunjung bisa melihat pemandangan istimewa saat pagi hari karena perpaduan matahari terbit dan selimut kabut yang mengesankan. Selain berkemah, kamu juga bisa menambah koleksi foto di akun Instagram karena ada banyak spot cantik di To’tombi seperti kebun bunga, jembatan dan bersepeda di atas ketinggian",
+   "province": "Sulawesi Selatan",
+   "rating": "4.5",
+   "id": "36"
+  },
+  {
+   "name": "Sarambu Sikore",
+   "city": "Toraja Utara",
+   "address": "Kecamatan Awan Rante Karua, Kabupaten Toraja Utara, Sulawesi Selatan 91856",
+   "pictured": "https://www.gotravelly.com/blog/wp-content/uploads/2022/02/sarambu-sikore.jpeg",
+   "description": "Berjarak 50 kilometer dari kota Rantepao, Sarambu Sikore menghadirkan pesona air terjun alami dengan nuansa yang menyejukkan dan menyegarkan. Dengan akses yang mudah dilalui, Sarambu Sikore menjadi salah satu destinasi wisata Tana Toraja yang menarik untuk dikunjungi. Atmosfer alam yang natural, air terjun yang masih bersih dan debit airnya sangat deras, liburan kamu di air terjun ini dijamin akan mengesankan. Pemandangan alami ini didukung oleh hutan yang rindang, dengan nyanyian burung sejak pagi hingga petang",
+   "province": "Sulawesi Selatan",
+   "rating": "4.9",
+   "id": "37"
+  },
+  {
+   "name": "Bukit Bangkirai",
+   "city": "Kutai Kartanegara",
+   "address": "Jl. Soekarno Hatta Km. 38, Kecamatan Samboja, Kabupaten Kutai Kartanegara, Kalimantan Timur",
+   "pictured": "https://rajatransit.com/wp-content/uploads/2017/08/bukit-bangkirai-1024x708.jpg",
+   "description": "Anda dapat menemukan flora dan fauna yang khas dan juga menyeberangi jembatan kanopi yang mendebarkan. Hutan yang didominasi pohon bangkirai ini sudah dikelola dengan baik dan punya aneka fasilitas. Ada tempat penyewaan kostum adat Dayak dan penginapan yang nyaman, jadi Anda bisa lebih lama menikmati keindahan hutan ini",
+   "province": "Kalimantan Timur",
+   "rating": "4.5",
+   "id": "38"
+  },
+  {
+   "name": "Kebun Raya Balikpapan",
+   "city": "Balikpapan",
+   "address": "Jl. Soekarno Hatta Km. 15, Karang Joang, Kecamatan Balikpapan Utara, Kabupaten Balikpapan, Kalimantan Timur",
+   "pictured": "https://www.celebes.co/borneo/wp-content/uploads/2020/04/Kebun-Raya-Balikpapan.jpg",
+   "description": "Terdapat koleksi tumbuhan kayu yang memang dilestarikan di sini, embung dan restoran yang menjadikan tempat ini layak untuk berwisata. Bila kamu mengajak si kecil, Kebun Raya Balikpapan dapat menjadi tujuan yang sarat ilmu pengetahuan. Ada pula rumah anggrek dan rumah paranet yang jadi tempat pelestarian berbagai jenis anggrek dan tumbuhan paku. Terdapat juga tanaman bunga terompet, tanaman merambat (akar kuning), buah-buahan, obat-obatan, pepohonan (pulai, kapsul kenanga, kayu hitam,kapul, bernia, pinang, ulin). Kebun Raya ini memiliki tumbuhan khas hutan tropis yang dilindungi (bangkirai, ulin, meranti, keruning, banggeris) serta pohon-pohon buah (durian hutan, manggis hutan, langsat, kayu bawang dengan diameter sampai dengan 80 - 90 cm). Kebun raya ini juga memiliki kegiatan, outbond, konservasi, pendidikan serta pelatihan",
+   "province": "Kalimantan Timur",
+   "rating": "4.5",
+   "id": "39"
+  },
+  {
+   "name": "Danau Nyadeng",
+   "city": "Berau",
+   "address": "Kampung Merabu, Kecamatan Kelay, Kabupaten Berau, Kalimantan Timur",
+   "pictured": "https://4.bp.blogspot.com/-EX1Cdl6mghM/WnvnEqsaYnI/AAAAAAAAdZ0/zBlD4NJ-Jtwrch6NAPDJ4roJqZamPZXVACLcBGAs/s1600/IMG_9603.JPG",
+   "description": "Danau Nyadeng berlokasi di dalam Kampung Merabu dan menjadi bagian dari ekoturisme. Danau cantik ini biasa dibandingkan dengan Labuan Cermin yang lebih populer. Terletak di kaki Gunung Ketepu, kamu dapat melakukan aktivitas seperti berenang atau river tubing di sini. Selain jernih dan bersih, banyak ikan yang hidup di danau ini dan bisa menjadi pemandangan menyenangkan. Kalau Anda gemar mengoleksi foto pemandangan alam, Danau Nyadeng sangat instagrammable karena dari sini, Anda pun bisa melihat tebing karst dengan leluasa",
+   "province": "Kalimantan Timur",
+   "rating": "4.5",
+   "id": "40"
+  },
+  {
+   "name": "Danau Aco",
+   "city": "Kutai Barat",
+   "address": "Kampung Linggang Melapeh, Kecamatan Linggang Bigung, Kabupaten Kutai Barat, Kalimantan Timur 75777",
+   "pictured": "https://www.celebes.co/borneo/wp-content/uploads/2020/01/Danau-Aco.jpg",
+   "description": "Luas danau ini mencapai 4 Ha dan merupakan salah satu objek wisata unggulan Kutai Barat. Danau Aco terletak di atas bukit. Danau ini memiliki segalanya yang dibutuhkan sebagai tempat wisata, kondisi hutan hujan tropis yang masih terjaga keaslianya mengitari danau ini, cuaca tropis yang sangat kental di wilayah Kutai Barat menyebabkan wilayah sekitar danau menjadi habitat yang tepat untuk flora dan fauna. Selain cantik, sudah ada fasilitas yang tersedia untuk menikmati Danau Aco. Anda dapat menyewa sepeda air, perahu karet atau sekedar mengobrol di dalam gazebo. Danau ini juga penuh ikan seperti haruan, lele dan nila",
+   "province": "Kalimantan Timur",
+   "rating": "4.2",
+   "id": "41"
+  },
+  {
+   "name": "Pantai Melawai",
+   "city": "Balikpapan",
+   "address": "Jl. Pelabuhan Semayang, Prapatan, Kecamatan Balikpapan Kota, Kota Balikpapan, Kalimantan Timur 76111",
+   "pictured": "https://ksmtour.com/media/images/articles7/pantai-melawai-kalimantan-timur.jpg",
+   "description": "Pantai Melawai merupakan salah satu ikon kota Balikpapan karena letaknya di pantai timur pulau Borneo ini. Banyak sekali traveler dan anak muda setempat mengunjungi pantai ini hanya untuk sekedar bersantai atau menikmati suasana pantai di sore hari.Pantai ini dekat dengan pusat kota Balikpapan dan aksesnya pun mudah. Untuk menikmati pantai ini cukup mudah, Anda cukup melakukan penerbangan ke kota Balikpapan dan naik kendaraan umum yang ada dari bandara menuju pantai Melawai. Anda bisa melihat berbagai aktivitas dan fasilitas yang ada di sekitar pantai Melawai. Dari pesisir pantai, traveler bisa melihat kapal-kapal berukuran besar hingga perahu nelayan yang berlalu lalang di sepanjang pantai tersebut. Termasuk kapal-kapal tanker besar yang menghiasi cakrawala Pantai Melawai",
+   "province": "Kalimantan Timur",
+   "rating": "4.4",
+   "id": "42"
+  },
+  {
+   "name": "Danau Labuan Cermin",
+   "city": "Berau",
+   "address": "Desa Labuan Kelambu, Kecamatan Biduk Biduk, Kabupaten Berau, Kalimantan Timur",
+   "pictured": "https://ksmtour.com/media/images/articles13/danau-labuan-cermin-kalimantan-timur.jpg",
+   "description": "Tempat wisata alam ini dikelola oleh masyarakat sekitar bekerja sama dengan Lembaga Masyarakat Labuan Cermin yang menaunginya. Danau ini memiliki dua rasa, asin (air laut) di bagian dasar dan tawar di bagian permukaan. Fenomena alam disebut juga sebagai Meromictic lake. Dinamakan Labuan Cermin karena airnya begitu bening dan mengkilap layaknya cermin. Danau berkedalaman hingga 5 meter ini juga dapat Anda selami. Untuk sampai ke Danau Labuan Cermin, dari Balikpapan menuju Kabupaten Berau, lalu Tanjung Redep. Dari Tanjung Redep dapat dilanjutkan ke Kecamatan Biduk-biduk dengan waktu tempuh sekitar 6 jam. Dari sini perjalanan akan berlanjut dengan mengikuti petunjuk arah menuju Danau Labuan Cermin dengan menggunakan perahu sewa. Selain jalur air, dapat juga menggunakan jalur darat untuk menuju ke Danau Labuan Cermin yaitu dari kota Samarinda atau Sangatta menuju Kecamatan Biduk-biduk dengan waktu tempuh sekitar kurang lebih 13 jam",
+   "province": "Kalimantan Timur",
+   "rating": "4.5",
+   "id": "43"
+  },
+  {
+   "name": "Rumah Ulin Arya",
+   "city": "Samarinda",
+   "address": "Sempaja Utara, Kecamatan Samarinda Utara, Kota Samarinda, Kalimantan Timur 75119",
+   "pictured": "https://ibukotakita.com/files/2019/09/Samarinda-Wisata-Rumah-Ulin-Arya-B.jpeg",
+   "description": "Rumah Ulin Arya menawarkan konsep sangat menarik bahkan bisa disebut sebagai salah satu pelopor wahana yg menawarkan 2 wahana / fasilitas dalam 1 tempat. Wahana pertama yaitu wahana alam atau sering disebut juga sebagai surganya paru-paru. Di dalam nya di ditumbuhi oleh berbagai aneka macam pohon seperti pohon ulin, pohon buah-buahan, serta tanaman-tanaman hias yang unik berbagai jenis. Kemudian di wahana alam juga memiliki beberapa spot-spot yang bagus dan mendukung seperti Rumah Ulin, Rumah Kaca, Cottages, Mini Farm, Hidden Café, Arya,s Playground, Camping Ground, Meeting Room, Private Library, Labirin, Kids Playground, Sarang Burung Raksasa, Botanical Garden dan ditambah beberapa fasilitas yaitu Pendopo (dilengkapi wifi, infocus, whiteboard dan Karaoke) serta ada beberapa Gazebo yang bisa digunakan",
+   "province": "Kalimantan Timur",
+   "rating": "4.5",
+   "id": "44"
+  },
+  {
+   "name": "Museum Mulawarman",
+   "city": "Kutai Kartanegara",
+   "address": "Jl. Tepian Pandan, Panji, Kecamatan Tenggarong, Kabupaten Kutai Kartanegara, Kalimantan Timur 75513",
+   "pictured": "https://www.celebes.co/borneo/wp-content/uploads/2020/07/Museum-Mulawarman.jpg",
+   "description": "Museum yang dulunya bernama Museum Kutai ini menyimpan ribuan koleksi bersejarah. Kamu akan puas mengulik sejarah dan menambah wawasan mengenai Kesultanan Kutai Kartanegara. Di depan museum saja Anda sudah dapat melihat patung Lembuswana, yang merupakan lambang dari kerajaan. Apabila sudah masuk ke dalamnya, Anda akan disambut dengan singgasana Raja Kutai, diorama, totem, koleksi keramik dan masih banyak lagi. Museum Mulawarman terdiri dari dua lantai. Di lantai bawah terdapat koleksi keramik Cina. sedangkan lantai 1 berisi koleksi peninggalan bercorak kesenian. Di belakang museum, Anda bisa berbelanja cinderamata khas budaya Dayak, batu perhiasan, maupun cinderamata lainnya",
+   "province": "Kalimantan Timur",
+   "rating": "4.4",
+   "id": "45"
+  },
+  {
+   "name": "Pantai Kuta Mandalika",
+   "city": "Lombok Tengah",
+   "address": "Kuta, Kecamatan Pujut, Kabupaten Lombok Tengah, Nusa Tenggara Barat",
+   "pictured": "https://img.okezone.com/content/2018/04/03/406/1881707/usir-galau-di-pantai-kuta-mandalika-yang-membius-mata-scs3OuGcX7.jpg",
+   "description": "Kuta Mandalika merupakan pantai indah yang menjadi primadona masyarakat Lombok, namanya yang mirip, Kuta Mandalika sering dibandingkan dengan Pantai Kuta di Bali, namun Kuta Mandalika memiliki suasana lebih sepi dan lebih bersih. Pantai Kuta menjadi salah satu tempat wisata yang termasuk ke dalam Kawasan Ekonomi Khusus (KEK) Mandalika. Diresmikan oleh Presiden Joko Widodo pada 2017 lalu. Nama Kuta sendiri diambil dari nama Desa tempat pantai ini berada, sedangkan nama Mandalika tidak hanya mengenai nama tempat, tetapi juga cerita seorang putri. Ialah putri yang memiliki paras cantik yang menjadi incaran pemuda biasa hingga pangeran. akan tetapi sang putri tidak mau menikah sehingga ia lebih memilih terjun ke laut daripada harus menerima pinangan dari pemuda-pemuda tersebut. Dipercaya masyarakat setempat, Putri Mandalika berubah menjadi cacing laut yang masyarakat setempat menyebutnya cacing nyale",
+   "province": "Nusa Tenggara Barat",
+   "rating": "4.0",
+   "id": "46"
+  },
+  {
+   "name": "Taman Wisata Pusuk Sembalun",
+   "city": " Lombok Timur",
+   "address": "Sembalun Bumbung, Kecamatan Sembalun, Kabupaten Lombok Timur, Nusa Tenggara Barat",
+   "pictured": "https://cdn.nativeindonesia.com/foto/taman-wisata-pusuk-sembalun/Landmark-Taman-Wisata-Pusuk-Sembalun.jpg",
+   "description": "Pusuk Sembalun adalah destinasi wisata yang menyuguhkan pemandangan yang indah nan cantik. Tempat ini merupakan dataran tinggi yang berada pada ketinggian kurang lebih 1.000 MDPL. Taman wisata yang menyuguhkan pesona penungan Rinjani yang indah nan hijau, udara yang sejuk dan tebing-tebing curam yang mampu memanjakan mata",
+   "province": "Nusa Tenggara barat",
+   "rating": "4.0",
+   "id": "47"
+  },
+  {
+   "name": "Pantai Parangtritis",
+   "city": "Bantul",
+   "address": "Kelurahan Parangtritis, Kecamatan Kapanewon Kretek, Kabupaten Bantul, Daerah Istimewa Yogyakarta",
+   "pictured": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Dusk_till_dawn_%28cropped%29.jpg",
+   "description": "Pantai Parangtritis adalah tempat wisata yang terletak di Daerah Istimewa Yogyakarta. Jaraknya kurang lebih 27 km dari pusat Kota Yogyakarta. Pantai ini menjadi salah satu destinasi wisata terkenal di Yogyakarta dan telah menjadi ikon pariwisata di Yogyakarta. Pantai ini mempunyai nilai simbolis yang merupakan garis yang bersifat magis yang menghubungkan Panggung Krapyak, Keraton Yogyakarta, Tugu Yogyakarta dan Gunung Merapi yang dikenal sebagai Gari Imajiner Yogyakarta",
+   "province": "Daerah Istimewa Yogyakarta",
+   "rating": "4.0",
+   "id": "48"
+  },
+  {
+   "name": "Puncak Segoro",
+   "city": "Gunungkidul",
+   "address": "Girikarto, Kecamatan Panggang, Kabupaten Gunungkidul, Daerah Istimewa Yogyakarta 55872",
+   "pictured": "https://1.bp.blogspot.com/-gYEeAg5rgqM/Xi2mgZZ5MVI/AAAAAAAAFM0/6iIVUcsKaPUqZ_ujK4UWs9BDm5orzsBWQCLcBGAsYHQ/w1200-h630-p-k-no-nu/puncak-segoro-gunung-kidul-tempat-instagramable-di-jogja-terbaru.jpg",
+   "description": "Bernama Puncak Segoro yang artinya di atas lautan. Wisata ini tidak bertempat di pinggir pantai seperti biasa, ,tapi ada di atas sebuah tebing yang mengarah ke laut.  Sehingga bisa menikmati birunya lautan lepas disini. untuk menuju lokasi tersebut, dari pusat kota Yogyakarta ke arah pantai selatan sejauh 45 km yang membutuhkan waktu 1,5 jam. Tempatnya mudah ditemukan karena sudah banyak penunjuk arah",
+   "province": "Daerah Istimewa Yogyakarta",
+   "rating": "4.3",
+   "id": "49"
+  },
+  {
+   "name": "Embung Kledung",
+   "city": "Temanggung",
+   "address": "Jl, Raya parakan-Wonosobo KM.12, Desa Tlahab, Kecamatan Kledung Parakan, Kabupaten Temanggung, Jawa Tengah",
+   "pictured": "https://www.superlive.id/storage/superadventure/2018/07/11/af16995dc749.jpg",
+   "description": "Embung Kledung merupakan sebuah tempat yang cocok untuk berkemping ria diantara panorama Gunung Sindoro dan Gunung Sumbing. Panorama yang disajikan sungguh sangat luar biasa, udara yang segar dipadu dengan keindahan Gunung Sindoro didepan mata yang dihiasi sebuah danau buatan yang cukup besar. Embung sendiri bermakna Waduk atau Penampungan air, yang didirikan di bekas lahan tembakau dengan luas sekitar 83x83 meter. Karena memang pada awal pembuatannya dimaksudkan untuk menampung air hujan yang akan mensuplai air ketika musim kemarau",
+   "province": "Jawa Tengah",
+   "rating": "4.5",
+   "id": "50"
+  },
+  {
+   "name": "Wisata Alam Posong",
+   "city": "Temanggung",
+   "address": "Desa Tlahab, Kecamatan Kledung, Kabupaten Temanggung, Jawa Tengah",
+   "pictured": "https://sewamobiljogja.id/wp-content/uploads/2019/07/Posong-Temanggung.png",
+   "description": "Wisata Alam Posong merupakan salah satu pilihan wisata di Temanggung. Lokasinya berada di dataran tinggi membuat panorama Posong sangat indah. Tepatnya berada di ketinggian 1.823 meter di atas permukaan laut. Tidak heran kalau udara di Wisata Posong sangat sejuk. Bahkan berbagai jenis tanaman bisa tumbuh subur",
+   "province": "Jawa Tengah",
+   "rating": "4.6",
+   "id": "51"
+  },
+  {
+   "name": "Gili Meno",
+   "city": "Lombok Utara",
+   "address": "Gili Indah, Kecamatan Pemenang, Kabupaten Lombok Utara, Nusa Tenggara Barat",
+   "pictured": "https://bisniswisata.co.id/wp-content/uploads/2019/03/gili-meno.jpg",
+   "description": "Gili Meno adalah salah satu dari tiga pulau kecil, selain Gili Trawangan dan Gili Air yang menjadi kawasan wisata bahari. Disini terdapat taman burung yang mempunyai koleksi burung-burung langka dari Indonesia dan mancanegara. Pasirnya putih dan masih alami. Di Gili Meno kendaraan bermotor sangat dibatasi, demikian pula penggunaan listrik. Alternatif kendaraan hanya terdapat sepeda dan cidomo. Gili Meno ini juga dikenal dengan spot penyelaman.  Spot menyelam di Gili Meno memiliki 48 patung perempuan dan laki-laki yang terdapat di bawah laut. Patung-patung itu diciptakan untuk mengembangbiakkan terumbu karang.  Patung manusia di bawah laut itu sendiri hanya berada 13 kaki dari atas permukaan",
+   "province": "Nusa Tenggara Barat",
+   "rating": "4.5",
+   "id": "52"
+  },
+  {
+   "name": "Pulau Kenawa",
+   "city": "Sumbawa",
+   "address": "Poto Tano, Kecamatan Poto Tano, Kabupaten Sumbawa Barat, Nusa Tenggara Barat",
+   "pictured": "https://www.goodnewsfromindonesia.id/uploads/post/large-shutterstock-1482770729-acbd72dfa8c68fe8d3ccf8eac99e007e.jpg",
+   "description": "Pulau Kenawa memiliki luas sebesar 15 hektare dengan garis pantai membentang sejauh sekitar 1, 73 kilometer terletak di kabupaten Sumbawa Barat. Selama ini Pulau Kenawa identik dengan wisata bukit dan padang savananya, namun ternyata pantainya tidak kalah menarik, tenang dan bersih. Keindahan lautnya masih terjaga, cocok untuk snorkeling puas melihat warna-warni terumbu karang, ikan dan berbagai jenis binatang laut lainnya",
+   "province": "Nusa Tenggara Barat",
+   "rating": "4.5",
+   "id": "53"
+  },
+  {
+   "name": "Tirta Gangga",
+   "city": "Karangasem",
+   "address": "Desa Ababi, Kecamatan Abang, Kabupaten Karangasem, Bali",
+   "pictured": "https://www.darmabalicarrental.com/wp-content/uploads/2018/09/tirta_gangga.jpg",
+   "description": "Objek wisata Tirta Gangga, dulunya sebuah taman air kerajaan Karangasem yang berada di Bali timur. Saat ini taman Tirta Gangga Karangasem berfungsi sebagai tempat wisata di Bali timur. Ada tiga hal utama yang ada di taman Tirta Gangga Karangasem, kebun, kolam air dan patung. Lokasi dari taman Tirta Gangga Karangasem, berada di tengah areal persawahan dan air yang ada di taman ini berasal dari mata air Rejasa. Taman ini masih milik kerajaan Karangasem",
+   "province": "Bali",
+   "rating": "4.5",
+   "id": "54"
+  },
+  {
+   "name": "Tangkuban Perahu",
+   "city": "Bandung",
+   "address": "Cikahuripan, Kecamatan Lembang, Kabupaten Bandung Barat, Jawa Barat",
+   "pictured": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit19201280gsm/events/2021/02/04/f12b8d46-03f2-42ad-a620-5e7ad748aec8-1612403518383-adf8c9df733bf89681751d3427f993d7.jpg",
+   "description": "Gunung Tangkuban Perahu selalu dikaitkan dengan kisah legenda Sangkuriang yang jatuh cinta kepada Dayang Sumbi, ibunya sendiri. Saat Sangkuriang ingin menikahi ibunya sendiri, Dayang Sumbi memberikan syarat yang mengharuskannya untuk membangun perahu dan telaga dalam satu malam. Namun, usahanya gagal, sehingga ia menendang perahu tersebut. Nah, posisi perahu yang terbalik saat ditendang ini konon membentuk Gunung Tangkuban Perahu",
+   "province": "Jawa Barat",
+   "rating": "3.5",
+   "id": "55"
+  },
+  {
+   "name": "Pantai Marina Boom",
+   "city": "Banyuwangi",
+   "address": "Desa, Kampung Mandar, Kecamatan Banyuwangi, Kabupaten Banyuwangi, Jawa Timur 68419",
+   "pictured": "https://wisatakaka.com/wp-content/uploads/2019/12/Harga-Tiket-Masuk-Pantai-Boom-Banyuwangi.jpg",
+   "description": "Pantai Marina Boom kini jadi ikon wisata baru Banyuwangi yang terletak di tengah kota Banyuwangi. Akses yang mudah, dan tiket masuk yang tergolong murah menjadikan pantai ini tempat nongkrong asik segala golongan. Pantai Boom yang dulunya merupakan pelabuhan ini, dikembangkan oleh PT. Pelindo Properti Indonesia hingga menjadi kawasan dermaga kapal pesiar dan berdiri sejumlah landmark yang ikonik. Keistimewaan lain dari Marina Boom adalah fasilitas penunjangnya yang lengkap seperti private resort, marina lounge and restaurant, yacht club, dry berth facilities, serta amphitheater Boom Eco Adventure Park yang berada di pinggir pantai. Amphitheatre ini merupakan lokasi penyelenggaraan pagelaran kesenian serta Banyuwangi Beach Jazz Festival",
+   "province": "Jawa Timur",
+   "rating": "4.3",
+   "id": "56"
+  },
+  {
+   "name": "Telaga Warna",
+   "city": "Bogor",
+   "address": "Tugu Sel, Kecamatan Cisurua, Kabupaten Bogor, Jawa Barat",
+   "pictured": "https://www.pegipegi.com/travel/wp-content/uploads/2019/06/shutterstock_606336362.jpg",
+   "description": "Objek wisata ini berada di dekat perkebunan teh PTP VII Gunung Mas. Dengan latar belakangi persawahan dan perkampungan penduduk dengan gunung yang menjulang tinggi menambah keindahan panorama alam yang sudah ada. Sebelum ditetapkan sebagai kawasan taman wisata pada tahun 1972, kawasan Telaga Warna Puncak Pass Cisarua – Bogor, merupakan bagian dari Kawasan Cagar Alam hutan Gunung Mega Mendung dan hutan Gunung Hambalang",
+   "province": "Jawa Barat",
+   "rating": "4.0",
+   "id": "57"
+  },
+  {
+   "name": "Wisata Panorama Petung Sewu",
+   "city": "Mojokerto",
+   "address": "Kawasan Taman Hutan Raya Raden Soerjo, Kecamatan Pacet, Mojokerto, Jawa Timur",
+   "pictured": "https://tahuraradensoerjo.or.id/images/owa/owa-wpps/img-12.jpg",
+   "description": "Berada di lereng Gunung Arjuno, Wisata Panorama Petung Sewu menawarkan panorama alam yang indah dan suasana yang begitu asri, juga kesejukan udara nan menyegarkan. Dengan latar alam yang indah dan suasana asri, tempat ini dilengkapi spot foto yang instagramable dan sangat pas untuk bersantai dari kesibukkan sehari-hari. Berada di tepian tebing yang terjal, Wisata Panorama Patung Sewu memiliki pemandangan indah berupa Gunung Welirang dan air terjun",
+   "province": "Jawa Timur",
+   "rating": "4.5",
+   "id": "58"
+  },
+  {
+   "name": "Curug Cikaso",
+   "city": "Sukabumi",
+   "address": "Desa Cibitung, Kecamatan Cibitung, Kabupaten Sukabumi, Jawa Barat",
+   "pictured": "https://totabuan.news/wp-content/uploads/2022/04/Pemandangan-Curug-Cikaso-Sukabumi.png",
+   "description": "Merupakan salah satu Air Terjun yang terletak di Sukabumi, Air terjun ini juga dikenal sebagai Curug Luhur, tetapi nama Curug Cikaso lebih dikenal masyarakat sekitar dikarenakan aliran airnya berasal dari anak Sungai Cikaso yaitu Sungai Cicurug. Terbentuk dari tiga titik Air Terjun yang berdampingan dalam satu lokasi, dimana di bagian bawah air terjun ini terdapat komal dengan warna air hijau kebiru-biruan. Masing-masing air terjun mempunya nama masing-masing. Yang kiri bernama Curug Asepan, Tengan Curug Meong, dan yang kanan Curug Aki",
+   "province": "Jawa Barat",
+   "rating": "4.5",
+   "id": "59"
+  },
+  {
+   "name": " Bukit Teletubbies",
+   "city": "Sukabumi",
+   "address": "Kampung Ciratare, Desa Ujung Genteng, Kecamatan Ciracap, Kabupaten Sukabumi, Jawa Barat",
+   "pictured": "https://img.okezone.com/content/2021/07/05/408/2435831/pesona-bukit-teletubbies-sukabumi-spot-terbaik-menikmati-sunset-AYM8Cn90FA.jpg",
+   "description": "Lokasi wisata yang tidak sulit untuk di datangi. Lokasi ke bukit Teletubbies berada di pinggir Jalan Raya Provinsi Jawa Barat tepatnya, di ruas Jalan Surade - Ujung Genteng. Diperkirakan hanya  sekitar 3 - 4 kilometer menuju spot Bagalbatre Pantai Ujung Genteng. Selain  daya tarik tersendiri dengan kenyamanan menjadi pilihan bagi wisatawan mencari ketenangan. Mereka jauh-jauh datang kesana, menepis hirup pikuk aktivitas dan rutinitas sehari-hari",
+   "province": "Jawa Barat",
+   "rating": "4.5",
+   "id": "60"
+  },
+  {
+   "name": "Lembah Tepus",
+   "city": "Bogor",
+   "address": "Jl. Curug Cigamena, Gunung Sari, Pamijahan, Bogor, Jawa Barat",
+   "pictured": "https://img-highend.okezone.com/library/images/bogor%205.jpg",
+   "description": "Lembah Tepus merupakan aliran sungai di hutan dengan curug alami. Karena posisinya yang berada di lembah, air terjunnya membentuk beberapa tingkat secara alami. Lokasinya berada di hutan yang masih terjaga kelestariannya. Kondisi ini membuat kawasan wisata ini jadi primadona wisata terbaru dari TNGHS. Airnya yang berwarna biru dan jernih membuat siapapun terpesona. Terlebih lokasinya dekat dari ibukota Jakarta. Bagi yang mencari suasana alam untuk berakhir pekan, Lembah Tepus adalah tempat yang layak sebagai tujuan rekreasi",
+   "province": "Jawa Barat",
+   "rating": "4.5",
+   "id": "61"
+  },
+  {
+   "name": "Puncak Mustika Manik",
+   "city": "Bogor",
+   "address": "Gunung Sari, Kecamatan Pamijahan, Kabupaten Bogor, Jawa Barat",
+   "pictured": "https://hariliburnasional.com/wp-content/uploads/2018/12/Rute-ke-Puncak-Mustika-Manik.jpg",
+   "description": "Puncak Mustika Manik hadir sebagai destinasi wisata alam yang menarik di Bogor. Tidak hanya menyuguhkan panorama alam khas puncak yang sangat indah, tetapi juga menyediakan spot-spot foto keren yang paling digemari untuk bersua selfie. Wisata Puncak Mustika Manik ini berada di kawasan Gunung Picung Gunung Sari. Di sana, pengunjung dapat menyaksikan pemandangan alam yang sangat istimewa. Serta dapat merasakan nikmatnya suasana alam khas pegunungan yang sangat alami. Suhu udara yang dingin serta hembusan angin sepoi-spoi semakin menambah asyik tentunya. Dari ketinggian puncak bukit ini kamu dapat memandangi hamparan alam yang sangat luas. Banyak pepohonan hijau nampak seperti permadani alam, tentu sangat menawan",
+   "province": "Jawa Barat",
+   "rating": "4.4",
+   "id": "62"
+  }
+ ]
