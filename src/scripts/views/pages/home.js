@@ -87,7 +87,7 @@ const Home = {
                     <h2>Tunggu apalagi? <b style="color: #FFB21B;">Yuk</b> jelajahi Indonesia!</h2>
                 </div>
                 <div class="content3_button col text-center">
-                    <a href="/#/wisata" class="btn btn-warning mx-auto border btn-lg rounded">Jelajah Sekarang></a>
+                    <a href="/#/wisata" class="btn btn-warning mx-auto border btn-lg rounded mt-3 button-nav">Jelajah Sekarang></a>
                 </div>
             </div>
         </div>

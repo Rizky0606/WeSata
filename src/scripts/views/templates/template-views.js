@@ -29,17 +29,17 @@ const createListAdatTemplate = (adat) => `
 `;
 
 const createDetailWisataTemplate = (wisata) => `
-    <h2 class="content__title" tabindex="0">${wisata.name}</h2>
+    <h2 class="content__title" id="contentTitle" tabindex="0">${wisata.name}</h2>
     <div class="content__image"> 
-        <img src="${wisata.pictured}" alt="${wisata.name}">
+        <img src="${wisata.pictured}" alt="${wisata.name}" id="contentImg">
     </div>
-    <div class="list__content">
-        <i class="fa-regular fa-star" tabindex="0"> ${wisata.rating}</i>
-        <i class="far fa-building" tabindex="0"> ${wisata.city}</i>
-        <i class="fa-regular fa-map-pin"> ${wisata.province}</i>
-        <i class="fa-regular fa-map" tabindex="0"> ${wisata.address}</i>
+    <div class="list__content" id="listContent">
+        <i class="fa-solid fa-star" tabindex="0"> ${wisata.rating}</i>
+        <i class="fa-solid fa-map-pin" tabindex="0"> ${wisata.province}</i>
+        <i class="fa-solid fa-building" tabindex="0"> ${wisata.city}</i>
+        <i class="fa-solid fa-map" tabindex="0"> ${wisata.address}</i>
     </div>
-    <p class="content__description" tabindex="0">${wisata.description}</p>
+    <p class="content__description" id="contentDesc" tabindex="0">${wisata.description}</p>
     
 `;
 
@@ -49,10 +49,10 @@ const createDetailAdatTemplate = (adat) => `
     <img src="${adat.pictured}" alt="${adat.name}">
     </div>
     <div class="list__content-adat">
-        <i class="fa-regular fa-map" tabindex="0">${adat.province}</i>
+        <i class="fa-solid fa-map" tabindex="0"> ${adat.province}</i>
     </div>
-    <p class="content__description" tabindex="0">${adat.description1}</p>
-    <p class="content__description" tabindex="0">${adat.description2}</p>
+    <p class="content__description" id="contentDesc" tabindex="0">${adat.description1}</p>
+    <p class="content__description" id="contentDesc" tabindex="0">${adat.description2}</p>
 `;
 
 const createFavoriteButtonTemplate = () => `

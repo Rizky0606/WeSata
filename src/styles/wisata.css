@@ -7,7 +7,7 @@
 }
 
 .content__list{
-    padding: 0 100px 50px 100px;
+    padding: 0 25px 50px 25px;
 }
 
 .listContainer{
@@ -25,6 +25,11 @@
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     border-radius: 10px;
     padding-bottom: 20px;
+}
+
+.listItem:hover{
+    box-shadow: 0 1px 20px 9px #d4d1d1;
+    transform: scale(1.05);
 }
 
 .listItem__image img{
@@ -108,15 +113,4 @@
 
 .listItem__content .buttonDetail:hover{
     font-weight: bold;
-}
-
-/* Footer */
-footer {
-    text-align: center;
-    font-size: 16px;
-    background-color: black;
-    color: white;
-    padding: 30px;
-    margin-top: 10px;
-    font-family: 'Poppins', sans-serif;
 }
