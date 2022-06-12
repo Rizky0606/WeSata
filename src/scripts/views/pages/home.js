@@ -1,7 +1,7 @@
 const Home = {
     async render() {
         return `
-        <div class="hero" alt="hero" style="background-image: linear-gradient(rgba(0, 0, 5, .5), rgba(0, 0, 5, .5)), url('assets/images-1.jpg');">
+        <div class="hero" alt="hero" data-aos="fade-up" data-aos-duration="3000" style="background-image: linear-gradient(rgba(0, 0, 5, .5), rgba(0, 0, 5, .5)), url('assets/images-1.jpg');">
             <div class="heroinner">
                 <h1 class="herotitle">Jelajahi Indonesia <br>
                 Bersama <b style="color: #FFB21B">Kami</b></h1>
@@ -11,10 +11,10 @@ const Home = {
                 mudah dan menyenangkan!</p>
             </div>
         </div>
-        <div class="card-container" data-aos="fade-up" data-aos-duration="2000">
+        <div class="card-container">
             <div class="row">
                 
-                    <div class="card border-0 shadow-sm p-3 bg-body rounded" style="width: 15.5rem; height: 20rem;">
+                    <div class="card border-0 shadow-sm p-3 bg-body rounded" style="width: 15.5rem; height: 20rem;" data-aos="fade-left" data-aos-delay="300" data-aos-duration="1200">
                         <div class="card-body" style="text-align: center;">
                             <i class="fa-regular fa-thumbs-up fa-3x" style="color: #FFB21B; margin-top:35px; margin-bottom:35px;"></i>
                             <h5 class="card-title" style="margin-bottom: 25px;">Travellers Suka Layanan Kami</h5>
@@ -23,7 +23,7 @@ const Home = {
                     </div>
                 
                 
-                    <div class="card border-0 shadow-sm p-3 bg-body rounded" style="width: 15.5rem; height: 20rem;">
+                    <div class="card border-0 shadow-sm p-3 bg-body rounded" style="width: 15.5rem; height: 20rem;" data-aos="fade-right" data-aos-delay="300" data-aos-duration="1200">
                         <div class="card-body" style="text-align: center;">
                             <i class="fa-solid fa-people-roof fa-3x" style="color: #FFB21B; margin-top:35px; margin-bottom:35px;"></i>
                             <h5 class="card-title" style="margin-bottom: 25px;">Adat Indonesia yang Lengkap</h5>
@@ -32,7 +32,7 @@ const Home = {
                     </div>
                
                 
-                    <div class="card border-0 shadow-sm p-3 bg-body rounded" style="width: 15.5rem; height: 20rem;">
+                    <div class="card border-0 shadow-sm p-3 bg-body rounded" style="width: 15.5rem; height: 20rem;" data-aos="fade-left" data-aos-delay="300" data-aos-duration="1200">
                         <div class="card-body" style="text-align: center;">
                             <i class="fa-regular fa-heart fa-3x" style="color: #FFB21B; margin-top:35px; margin-bottom:35px;"></i>
                             <h5 class="card-title" style="margin-bottom: 25px;">Fitur Like Destinasi Favorit</h5>
@@ -65,7 +65,7 @@ const Home = {
             </div>
         </div>
 
-        <div class="content-container-2" id="about-us" data-aos="fade-right" data-aos-offset="500" data-aos-duration="1200" data-aos-easing="ease-in-sine">
+        <div class="content-container-2" id="about-us" data-aos="zoom-in" data-aos-duration="2000">
             <div class="content-2">
                 <div class="content2_title">
                     <h2>Tentang Kami<h2>
@@ -76,7 +76,7 @@ const Home = {
                         <source type="image/jpeg" srcset="assets/images-5.png">
                         <img class="lazyload" data-src="assets/images-5.png" alt="">
                     </picture>
-                    <p> Selamat datang di Website WeSata. Wesata dibuat untuk memudahkan Wisatawan mencari tempat wisata tujuannya, baik itu wisatawan lokal maupun mancanegara. menampilkan berbagai tempat wisata diseluruh Indonesia yang bisa dikunjungi dan tidak kalah menarik dengan Wisata Luar Negeri. Cari tempat Wisatamu tambahkan ke daftar favorite dan kunjungi. Selamat Ber-WeSata </p>
+                    <p> Selamat datang di Website WeSata. Wesata dibuat untuk memudahkan Wisatawan mencari tempat wisata tujuannya, baik itu wisatawan lokal maupun mancanegara. menampilkan berbagai tempat wisata diseluruh Indonesia yang bisa dikunjungi dan tidak kalah menarik dengan Wisata Luar Negeri. Cari tempat Wisatamu tambahkan ke daftar favorite dan kunjungi. Selamat Ber-WeSata</p>
                 </div>
             </div>
         </div>

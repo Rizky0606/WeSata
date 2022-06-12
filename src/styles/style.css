@@ -178,16 +178,14 @@ header .title{
 
 .content2_title h2{
     font-weight: bold;
-    font-size: 35px;
+    font-size: 25px;
 }
 
 .content2_body{
     display: grid;
-    grid-template-columns: 1fr 1fr;
     width: 100%;
     align-items: center;
     justify-items: center;
-    font-size: 18px;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -198,7 +196,8 @@ header .title{
 }
 
 .content2_body p{
-    margin-right: 100px;
+    margin: 30px;
+    font-size: 15px;
 }
 
 
@@ -231,23 +230,24 @@ header .title{
 /* Profile */
 .profile {
     display: grid;
-    grid-template-columns: 1fr 1fr;
     width: 100%;
+    padding: 20px;
     align-items: center;
     justify-items: center;
 }
 
 .profile__text h2{
-    font-size: 35px;
+    font-size: 25px;
     font-style: medium;
 }
 
 .profile__text p {
-    font-size: 18px;
+    font-size: 15px;
 }
 
 .profile__image img{
-    width: 90%;
+    width: 100%;
+    padding: 10px;
 }
 
 /* Search */

@@ -24,11 +24,17 @@
     .app-bar .navigation {
         position: static;
         width: 100%;
+        display: grid;
+        align-content: center;
+    }
+
+    .app-bar .navigation ul {
+        margin-bottom: 0 !important;
     }
 
     .app-bar .navigation ul li {
         display: inline-block;
-        list-style: none
+        list-style: none;
     }
 
     .app-bar .navigation ul li a {
@@ -57,6 +63,32 @@
 
     .list__content i {
         font-size: 20px !important;
+    }
+
+    .profile {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .profile__text h2{
+        font-size: 35px !important;
+    }
+    
+    .profile__text p {
+        font-size: 18px !important;
+    }
+
+    .content2_body {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .content2_title h2 {
+        font-size: 35px !important;
+    }
+
+    .content2_body p {
+        font-size: 18px !important;
     }
 }
 

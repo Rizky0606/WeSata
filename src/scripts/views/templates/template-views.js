@@ -1,6 +1,6 @@
 
 const createListItemTemplate = (wisata) => `
-<div class="listItem" tabindex="0">
+<div class="listItem" tabindex="0" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1200">
     <div class="listItem__image">
         <img class="lazyload" data-src="${wisata.pictured}" alt="${wisata.name}">
     </div>
@@ -15,7 +15,7 @@ const createListItemTemplate = (wisata) => `
 `;
 
 const createListAdatTemplate = (adat) => `
-    <div class="listItem" tabindex="0">
+    <div class="listItem" tabindex="0" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1200">
         <div class="listItem__image">
             <img class="lazyload" data-src="${adat.pictured}" alt="${adat.name}">
         </div>
