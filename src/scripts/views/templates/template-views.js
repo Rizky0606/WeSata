@@ -44,7 +44,7 @@ const createDetailWisataTemplate = (wisata) => `
 `;
 
 const createDetailAdatTemplate = (adat) => `
-    <h2 class="content__title" tabindex="0">${adat.name}</h2>
+    <h2 class="content__title" id="contentTitle" tabindex="0">${adat.name}</h2>
     <div class="content__image">
     <img src="${adat.pictured}" alt="${adat.name}">
     </div>

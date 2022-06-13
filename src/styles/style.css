@@ -48,13 +48,13 @@ header{
 
 .app-bar .app-bar__menu button {
     background-color: transparent;
-    border: none;
     font-size: 18px;
     padding: 8px;
     cursor: pointer;
     min-height: 44px;
     min-width: 44px;
     color: #FFB21B;
+    border: none;
 }
 
 header .title{
@@ -117,7 +117,7 @@ header .title{
 	width: 100%;
 	text-align: left;
 	background-position: center;
-	background-color: Black !important
+	background-color: Black !important;
 }
 
 .heroinner {
@@ -278,7 +278,8 @@ header .title{
 }
 
 .search-container button:hover {
-    background-color: #44f7e8;
+    background-color: black;
+    color: white;
 }
 
 .search-container input::placeholder {
