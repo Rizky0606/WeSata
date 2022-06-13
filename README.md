@@ -1,1 +1,2 @@
-# WeSata
+# WeSata - Bersama Jelajahi Indonesia
+
