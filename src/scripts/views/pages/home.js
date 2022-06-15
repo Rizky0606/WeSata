@@ -7,7 +7,7 @@ const Home = {
                 Bersama <b style="color: #FFB21B">Kami</b></h1>
                 <p class="herosubtitle">Temukan berbagai keindahan<br>
                 destinasi wisata serta adat<br>
-                istiada di Indonesia dengan<br>
+                istiadat di Indonesia dengan<br>
                 mudah dan menyenangkan!</p>
             </div>
         </div>
@@ -48,10 +48,10 @@ const Home = {
                 <div class="profile">
                     <div class="profile__text">
                         <h2><b style="color: #FFB21B;">Kenapa</b> memilih WeSata?</h2>
-                        <p>Di WeSata kamu dapat menjelajahi berbagai<br>
-                        macam tempat wisata di seluruh Indonesia<br>
-                        lengkap dengan budaya adat istiadatnya.<br>
-                        Kamu juga dapat menyimpan destinasi favoritmu<br>
+                        <p>Di WeSata kamu dapat menjelajahi berbagai
+                        macam tempat wisata di seluruh Indonesia
+                        lengkap dengan budaya adat istiadatnya.
+                        Kamu juga dapat menyimpan destinasi favoritmu
                         dengan praktis, lho!</p>
                     </div>
                     <div class="profile__image">
@@ -76,7 +76,7 @@ const Home = {
                         <source type="image/jpeg" srcset="assets/images-5.png">
                         <img class="lazyload" data-src="assets/images-5.png" alt="">
                     </picture>
-                    <p> Selamat datang di Website WeSata. Wesata dibuat untuk memudahkan Wisatawan mencari tempat wisata tujuannya, baik itu wisatawan lokal maupun mancanegara. menampilkan berbagai tempat wisata diseluruh Indonesia yang bisa dikunjungi dan tidak kalah menarik dengan Wisata Luar Negeri. Cari tempat Wisatamu tambahkan ke daftar favorite dan kunjungi. Selamat Ber-WeSata</p>
+                    <p style="text-align: justify;">WeSata dibuat untuk memudahkan wisatawan mencari tempat wisata tujuannya, baik itu wisatawan lokal maupun mancanegara. WeSata menampilkan berbagai tempat wisata diseluruh Indonesia yang bisa dikunjungi dan tidak kalah menarik dengan wisata luar negeri. Cari tempat wisatamu dan tambahkan ke daftar favorite. Selamat ber-WeSata!</p>
                 </div>
             </div>
         </div>

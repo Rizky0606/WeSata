@@ -7,6 +7,7 @@ var serviceWorkerOption = {
     "/assets/affan-fadhlan-Orn0K8mzsmg-unsplash.jpg",
     "/assets/background.png",
     "/assets/images-1.jpg",
+    "/assets/images-1.webp",
     "/assets/images-2.jpg",
     "/assets/images-3.jpg",
     "/assets/images-4.png",

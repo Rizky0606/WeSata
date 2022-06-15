@@ -171,7 +171,7 @@ header .title{
 .content2_title{
     color: #FFB21B;
     text-align: center;
-    margin-bottom: 25px;
+    margin-bottom: 20px;
 }
 
 .content2_title h2{
@@ -246,7 +246,7 @@ header .title{
 .profile__image img{
     width: 100%;
     padding: 10px;
-    height: 200px;
+    height: 300px;
 }
 
 /* Search */
