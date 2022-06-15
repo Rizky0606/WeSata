@@ -1,6 +1,8 @@
 import 'regenerator-runtime';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
+import 'bootstrap';
+import "bootstrap/dist/css/bootstrap.min.css";
 import 'lazysizes';
 import 'lazysizes/plugins/parent-fit/ls.parent-fit';
 import '../styles/style.css';
@@ -18,11 +20,11 @@ const app = new App ({
 
 window.addEventListener('hashchange', () => {
     app.renderPage();
-});
-
-window.addEventListener('load', () => {
+  });
+  
+  window.addEventListener('load', () => {
     app.renderPage();
     swRegister();
-});
+  });
 
 AOS.init();

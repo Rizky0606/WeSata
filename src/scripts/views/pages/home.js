@@ -1,7 +1,7 @@
 const Home = {
     async render() {
         return `
-        <div class="hero" alt="hero" data-aos="fade-up" data-aos-duration="3000" style="background-image: linear-gradient(rgba(0, 0, 5, .5), rgba(0, 0, 5, .5)), url('assets/images-1.jpg');">
+        <div class="hero" alt="hero" data-aos="fade-up" data-aos-duration="3000" style="background-image: linear-gradient(rgba(0, 0, 5, .5), rgba(0, 0, 5, .5)), url('assets/images-1.webp');">
             <div class="heroinner">
                 <h1 class="herotitle">Jelajahi Indonesia <br>
                 Bersama <b style="color: #FFB21B">Kami</b></h1>
