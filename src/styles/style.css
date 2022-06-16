@@ -254,8 +254,7 @@ header .title{
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 0;
-    padding-top: 0;
+    margin: 30px;
 }
 
 .search-container input {
@@ -265,22 +264,6 @@ header .title{
     height: 30px;
     width: 80%;
     font-size: 18px;
-}
-
-.search-container button {
-    background-color: #FFB21B;
-    color: black;
-    border: 1px solid black;
-    border-radius: 10px;
-    height: 40px;
-    width: 10%;
-    cursor: pointer;
-    font-size: 18px;
-}
-
-.search-container button:hover {
-    background-color: black;
-    color: white;
 }
 
 .search-container input::placeholder {

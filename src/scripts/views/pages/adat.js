@@ -6,16 +6,33 @@ const Adat = {
         return `
         <div class="content">
             <h2 class="content__heading">Adat Indonesia</h2>
+            <div class="search-container">
+                <input type="search" id="searchBar" placeholder="Cari disini">
+            </div>
             <div class="content__list" id="contentList">
                 <div class="listContainer" id="listContainer">
             </div>
-        
             </div>
         </div>
         `;
     },
 
     async afterRender() {
+        const searchBar = document.getElementById('searchBar');
+        console.log(searchBar);
+        searchBar.addEventListener('keyup', (e) => {
+            const searchString = e.target.value.toLowerCase();
+            const filteredAdat = list.filter((adat) => {
+                return (
+                    adat.name.toLowerCase().includes(searchString)
+                );
+            });
+            const listContainer = document.querySelector('#listContainer');
+            listContainer.innerHTML = "";
+            filteredAdat.forEach((adat) => {
+                listContainer.innerHTML += createListAdatTemplate(adat);
+                });
+        });
         const list = await WeSataSource.adat();
         const listContainer = document.querySelector('#listContainer');
         list.forEach((adat) => {

@@ -4,7 +4,6 @@ import Adat from "../views/pages/adat";
 import DetailWisata from "../views/pages/detail-wisata";
 import DetailAdat from "../views/pages/detail-adat";
 import Favorite from "../views/pages/favorite";
-import Search from "../views/pages/search";
 
 const routes = {
     '/': Home,
@@ -13,7 +12,6 @@ const routes = {
     '/detail-wisata/:id': DetailWisata,
     '/detail-adat/:id': DetailAdat,
     '/favorite': Favorite,
-    '/search': Search,
 };
 
 export default routes;
