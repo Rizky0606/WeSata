@@ -72,13 +72,15 @@ header .title{
 
 /* Navbar */
 .navigation {
+    font-family: 'Poppins', sans-serif;
     position: absolute;
-    top: 50px;
+    top: 67px;
     left: -180px;
-    width: 150px;
+    width: 100%;
     transition: all 0.3s;
     padding: 8px;
     overflow: hidden;
+    padding: 0;
 }
 
 .navigation.open {
@@ -102,7 +104,12 @@ header .title{
     text-decoration: none;
     text-transform: capitalize;
     letter-spacing: 1px;
-    padding: 5px 10px;
+    padding: 8px 10px;
+    margin-bottom: 5px;
+}
+
+#navigationDrawer ul{
+    padding-left: 0.25rem;
 }
 
 .navigation ul li:hover a{
@@ -208,7 +215,7 @@ header .title{
 }
 
 .content-3{
-    padding: 50px 20px;
+    padding: 100px 20px;
 }
 
 .content3_title{
@@ -236,7 +243,7 @@ header .title{
 .profile {
     display: grid;
     width: 100%;
-    padding: 20px;
+    padding: 50px 20px;
     align-items: center;
     justify-items: center;
 }
