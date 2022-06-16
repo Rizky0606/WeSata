@@ -7,6 +7,40 @@
 	}
 }
 
+@media only screen and (max-width: 360px){
+    .profile__image img {
+        width: 100%;
+        padding: 10px;
+        height: 150px;
+    }
+
+    .content2_body img {
+        height: 150px;
+        width: 100%;
+        object-fit: contain;
+    }
+
+    .profile__text p {
+        font-size: 13px;
+    }
+
+    .content2_body p {
+        font-size: 13px;
+    }
+
+    .content3_title h2 {
+        font-weight: bold;
+        font-size: 25px;
+    }
+
+    .button-nav {
+        height: 50px;
+        width: 180px;
+        font-size: 15px;
+        padding-top: 13px;
+    }
+}
+
 @media only screen and (min-width: 480px){
     #contentList{
         padding: 0 100px 50px 100px;
@@ -31,6 +65,18 @@
 
     #headerTitle{
         font-size: 40px;
+    }
+
+    .profile__image img {
+        width: 100%;
+        padding: 10px;
+        height: 300px;
+    }
+
+    .content2_body img {
+        height: 300px;
+        width: 100%;
+        object-fit: contain;
     }
 }
 

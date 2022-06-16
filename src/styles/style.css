@@ -8,6 +8,10 @@
 
 body{
     background-color: #FAFAFA;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
 }
 
 /*Skip to Content*/
@@ -188,7 +192,7 @@ header .title{
 }
 
 .content2_body img{
-    height: 300px;
+    height: 200px;
     width: 100%;
     object-fit: contain;
 }
@@ -197,7 +201,6 @@ header .title{
     margin: 30px;
     font-size: 15px;
 }
-
 
 .content-container-3{
     background-color: white;
@@ -225,6 +228,10 @@ header .title{
     font-family: 'Poppins', sans-serif;
 }
 
+.rounded {
+    border-radius: 0.50rem!important;
+}
+
 /* Profile */
 .profile {
     display: grid;
@@ -246,7 +253,7 @@ header .title{
 .profile__image img{
     width: 100%;
     padding: 10px;
-    height: 300px;
+    height: 200px;
 }
 
 /* Search */
@@ -264,6 +271,7 @@ header .title{
     height: 30px;
     width: 80%;
     font-size: 18px;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
 }
 
 .search-container input::placeholder {
@@ -273,10 +281,11 @@ header .title{
 
 .button-nav{
     font-family: 'Poppins', sans-serif;
+    font-size: 19px;
 }
 
 /* Footer */
-footer {
+#footer {
     text-align: center;
     font-size: 14px;
     background-color: black;
@@ -286,6 +295,16 @@ footer {
     font-family: 'Poppins', sans-serif;
 }
 
+.footerTitle{
+    color: #FFB21B!important;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.footerSection{
+    font-family: 'Poppins', sans-serif;
+    padding-top: 5px;
+}
 /* Favorite */
 #favoriteButtonContainer {
     display: flex;
