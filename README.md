@@ -12,18 +12,18 @@ berbagai macam budaya adat istiadat yang ada di Indonesia kepada masyarakat dala
 luar negeri.
 
 
-Manfaat WeSata
+Manfaat dan Kelebihan WeSata
 --
-- aplikasi ini memperkenalkan macam-macam budaya dan destinasi wisata kepada penggunanya sehingga budaya diindonesia tetap terjaga 
-- sistem ini menampilkan macam-macam destinasi wisata yang ada di indonesia sehingga turis atau wisatawan dapat memanfaatkan aplikasi ini
-- Dengan kelengkapan fitur dan tampilan yang user friendly memudahkan pengguna dalam menggunakan aplikasi ini
-- aplikasi dapat digunakan diberbagai device
-- aplikasi ini dapat digunakan tanpa mengunduh aplikasi di app store atau sejenisnya sehingga dapat mengefesiensikan penggunaan storage Device penggunanya
-- informasi yang lengkap 
-- Kualitas gambar HD akan memberi experience yang baik bagi penggunanya saat menggunakan aplikasi
+- Aplikasi web ini memperkenalkan macam-macam budaya dan destinasi wisata kepada penggunanya sehingga budaya di Indonesia tetap terjaga.
+- Aplikasi web ini menampilkan macam-macam destinasi wisata yang ada di Indonesia sehingga turis dan wisatawan lokal dapat memanfaatkan aplikasi ini.
+- Dengan kelengkapan fitur dan tampilan yang user friendly memudahkan pengguna dalam menggunakan aplikasi ini.
+- Aplikasi web dapat digunakan diberbagai device.
+- Aplikasi web ini dapat digunakan tanpa mengunduh aplikasi di app store atau sejenisnya sehingga dapat mengefesiensikan penggunaan storage device penggunanya.
+- Informasi yang lengkap mengenai destinasi wisata dan adat istiadat di Indonesia.
+- Kualitas gambar HD akan memberi experience yang baik bagi penggunanya saat menggunakan aplikasi ini.
 
 
-Nama kelompok
+Project Capstone SIB 2 Kampus merdeka Dicoding - Team CPNG-89
 --
 -  F7009A034 - Friska Putri Rahma Sukandar
 -  F2211A179 - Rizky Fauzi Ardiansyah
