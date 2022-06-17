@@ -23,7 +23,7 @@ Manfaat dan Kelebihan WeSata
 - Kualitas gambar HD akan memberi experience yang baik bagi penggunanya saat menggunakan aplikasi ini.
 
 
-Project Capstone SIB 2 Kampus merdeka Dicoding - Team CPNG-89
+Project Capstone SIB Kampus merdeka Dicoding - Team CPNG-89
 --
 -  F7009A034 - Friska Putri Rahma Sukandar
 -  F2211A179 - Rizky Fauzi Ardiansyah
