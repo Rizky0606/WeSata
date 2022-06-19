@@ -33,13 +33,13 @@ const createDetailWisataTemplate = (wisata) => `
     <div class="content__image"> 
     <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
     <div class="carousel-inner">
-        <div class="carousel-item active">
+        <div class="carousel-item active" data-bs-interval="2000">
             <img src="${wisata.pictured}" class="d-block w-100" alt="${wisata.name}">
         </div>
-        <div class="carousel-item">
+        <div class="carousel-item" data-bs-interval="2000">
             <img src="${wisata.pictured2}" class="d-block w-100" alt="${wisata.name}">
         </div>
-        <div class="carousel-item">
+        <div class="carousel-item" data-bs-interval="2000">
             <img src="${wisata.pictured3}" class="d-block w-100" alt="${wisata.name}">
         </div>
     </div>
