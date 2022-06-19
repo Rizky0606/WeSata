@@ -52,7 +52,7 @@
     }
 
     #contentTitle{
-        font-size: 40px;
+        font-size: 30px;
     }
 
     #contentImg{
@@ -176,6 +176,14 @@
         grid-column-gap: 20px;
         grid-row-gap: 25px;
 	}
+
+    #contentTitle{
+        font-size: 40px !important;
+    }
+
+    .content__image img {
+        height: 400px !important;
+    }
 
     .card-container .row {
         display: grid;

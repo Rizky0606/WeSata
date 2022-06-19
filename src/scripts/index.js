@@ -9,6 +9,8 @@ import '../styles/style.css';
 import '../styles/responsive.css';
 import '../styles/wisata.css';
 import '../styles/detail.css';
+import './components/nav-bar';
+import './components/footer-web';
 import App from './views/app';
 import swRegister from './utils/sw-register';
 

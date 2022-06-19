@@ -72,24 +72,24 @@ header .title{
 
 /* Navbar */
 .navigation {
-    font-family: 'Poppins', sans-serif;
     position: absolute;
-    top: 67px;
+    top: 75px;
     left: -180px;
-    width: 100%;
+    width: 150px;
     transition: all 0.3s;
-    padding: 8px;
     overflow: hidden;
-    padding: 0;
 }
 
 .navigation.open {
     left: 0;
+    width: 100%;
 }
 
 .navigation.open ul {
     list-style: none;
     background-color: #fff;
+    font-size: 25px;
+    padding: 20px;
 }
 
 .navigation.open ul li a {
@@ -104,12 +104,7 @@ header .title{
     text-decoration: none;
     text-transform: capitalize;
     letter-spacing: 1px;
-    padding: 8px 10px;
-    margin-bottom: 5px;
-}
-
-#navigationDrawer ul{
-    padding-left: 0.25rem;
+    padding: 5px 10px;
 }
 
 .navigation ul li:hover a{
@@ -117,7 +112,6 @@ header .title{
     color: #FFB21B;
     font-weight: medium;
 }
-
 
 /*hero*/
 .hero {
