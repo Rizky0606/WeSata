@@ -78,6 +78,15 @@
         width: 100%;
         object-fit: contain;
     }
+
+    .navigation {
+        position: absolute;
+        top: 75px;
+        left: -180px;
+        width: 150px;
+        transition: all 0.3s;
+        overflow: hidden;
+    }
 }
 
 @media only screen and (min-width: 650px) {
@@ -166,6 +175,16 @@
 
     footer {
         font-size: 14px;
+    }
+
+    .carousel-control-prev-icon, .carousel-control-next-icon {
+        height: 40px;
+        width: 40px;
+        outline: black;
+        background-color: rgba(0, 0, 0, 0.3);
+        background-size: 100%, 100%;
+        border-radius: 50%;
+        border: 1px solid black;
     }
 }
 
