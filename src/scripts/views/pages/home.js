@@ -11,10 +11,10 @@ const Home = {
                 mudah dan menyenangkan!</p>
             </div>
         </div>
-        <div class="card-container">
+        <div class="card-container" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1200">
             <div class="row">
                 
-                    <div class="card border-0 shadow-sm p-3 bg-body rounded" style="width: 15.5rem; height: 20rem;" data-aos="fade-left" data-aos-delay="300" data-aos-duration="1200">
+                    <div class="card border-0 shadow-sm p-3 bg-body rounded" style="width: 15.5rem; height: 20rem;">
                         <div class="card-body" style="text-align: center;">
                             <i class="fa-regular fa-thumbs-up fa-3x" style="color: #FFB21B; margin-top:35px; margin-bottom:35px;"></i>
                             <h5 class="card-title" style="margin-bottom: 25px;">Travellers Suka Layanan Kami</h5>
@@ -23,7 +23,7 @@ const Home = {
                     </div>
                 
                 
-                    <div class="card border-0 shadow-sm p-3 bg-body rounded" style="width: 15.5rem; height: 20rem;" data-aos="fade-right" data-aos-delay="300" data-aos-duration="1200">
+                    <div class="card border-0 shadow-sm p-3 bg-body rounded" style="width: 15.5rem; height: 20rem;">
                         <div class="card-body" style="text-align: center;">
                             <i class="fa-solid fa-people-roof fa-3x" style="color: #FFB21B; margin-top:35px; margin-bottom:35px;"></i>
                             <h5 class="card-title" style="margin-bottom: 25px;">Adat Indonesia yang Lengkap</h5>
@@ -32,7 +32,7 @@ const Home = {
                     </div>
                
                 
-                    <div class="card border-0 shadow-sm p-3 bg-body rounded" style="width: 15.5rem; height: 20rem;" data-aos="fade-left" data-aos-delay="300" data-aos-duration="1200">
+                    <div class="card border-0 shadow-sm p-3 bg-body rounded" style="width: 15.5rem; height: 20rem;">
                         <div class="card-body" style="text-align: center;">
                             <i class="fa-regular fa-heart fa-3x" style="color: #FFB21B; margin-top:35px; margin-bottom:35px;"></i>
                             <h5 class="card-title" style="margin-bottom: 25px;">Fitur Like Destinasi Favorit</h5>
