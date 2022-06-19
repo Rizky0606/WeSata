@@ -18,6 +18,9 @@ const Favorite = {
     async afterRender() {
         const list = await FavoriteWisata.getAllWisata();
         const listContainer = document.querySelector('#listContainer');
+        if (list.length === 0){
+            listContainer.innerHTML = '<h6>Tidak ada destinasi favorit untuk ditampilkan!</h6>'
+        }  
         list.forEach((wisata) => {
             listContainer.innerHTML += createListItemTemplate(wisata);
         });

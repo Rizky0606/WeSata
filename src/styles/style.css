@@ -70,6 +70,12 @@ header .title{
     margin-top: 10px;
 }
 
+.listContainer h6{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
 /* Navbar */
 .navigation {
     position: absolute;
