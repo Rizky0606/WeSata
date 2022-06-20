@@ -23,6 +23,26 @@ Manfaat dan Kelebihan WeSata
 - Kualitas gambar HD akan memberi experience yang baik bagi penggunanya saat menggunakan aplikasi ini.
 
 
+Project Resources
+--
+Teknologi yang digunakan:
+- Custom API
+- Menggunakan icon dari Font/Awesome
+
+Bahasa Pemrograman yang digunakan:
+- HTML
+- CSS
+- JavaScript
+- Node JS
+
+Framework yang digunakan:
+- Boostrap
+
+Asset yang digunakan:
+- Unsplash.com
+- Freepik.com
+
+
 Project Capstone SIB Kampus merdeka Dicoding - Team CPNG-89
 --
 -  F7009A034 - Friska Putri Rahma Sukandar
