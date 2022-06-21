@@ -50,10 +50,10 @@ class Footer extends HTMLElement {
                         </h6>
                         <p>
                         <i class="fas fa-envelope me-3"></i>
-                            friskaprs@gmail.com
+                            <a href="mailto:friskaprs@gmail.com" style="text-decoration: none;">friskaprs@gmail.com</a>
                         </p>
                         <i class="fas fa-envelope me-3"></i>
-                            loremipsum@gmail.com
+                        <a href="mailto:rizkyfauzi132@gmail.com" style="text-decoration: none;">rizkyfauzi132@gmail.com</a>
                         </p>
                         <p><i class="fas fa-phone me-3"></i> +6287770465200</p>
                         <p><i class="fas fa-phone me-3"></i> +6280000000000</p>
