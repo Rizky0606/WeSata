@@ -30,3 +30,22 @@ Project Capstone SIB Kampus merdeka Dicoding - Team CPNG-89
 -  F7206D169 - Rizky Khairun Nisa
 -  F7350D333 - Isro Atun Nisa
 
+
+Project Resources
+--
+Teknologi yang digunakan:
+- Custom API
+- Menggunakan icon dari FontAwesome
+
+Bahasa Pemrograman yang digunakan:
+- HTML
+- CSS
+- JavaScript
+
+Framework yang digunakan:
+- Boostrap
+- Node JS
+
+Asset yang digunakan:
+- Unsplash.com
+- Freepik.com
