@@ -6,12 +6,17 @@ import FavoriteButtonInitiator from '../../utils/favorite-button-initiator';
 const DetailWisata = {
     async render() {
         return `
+            <div id="loading"></div>
             <div class="containerDetail" id="containerDetailWisata"></div>
             <div id="favoriteButtonContainer"></div>
         `;
     },
 
     async afterRender() {
+        const loading = document.querySelector('#loading');
+        loading.innerHTML = '<div class="loader"></div>';
+
+        try {
         const url = UrlParser.parseActiveUrlWithoutCombiner();
         const wisata = await WeSataSource.detailWisata(url.id);
         const detailContainer = document.querySelector('#containerDetailWisata');
@@ -29,6 +34,13 @@ const DetailWisata = {
                 description: wisata.description,
             },
         });
+
+        loading.style.display = "none";
+
+        } catch (error){
+            loading.style.display = "none";
+            listContainer.innerHTML = `Error: ${error}, check to your connection`
+        }
     },
 };
 
