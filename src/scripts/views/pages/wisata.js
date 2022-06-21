@@ -7,8 +7,9 @@ const Wisata = {
         <div class="content">
             <h2 class="content__heading">Destinasi Wisata Indonesia</h2>
             <div class="search-container">
-                <input type="search" id="searchBar" placeholder="Cari disini">
+            <input type="search" id="searchBar" placeholder="Cari disini">
             </div>
+            <div id="loading"></div>
             <div class="content__list" id="contentList">
                 <div class="listContainer" id="listContainer">
             </div>
@@ -20,6 +21,10 @@ const Wisata = {
     },
 
     async afterRender() {
+        const loading = document.querySelector('#loading');
+        loading.innerHTML = '<div class="loader"></div>';
+
+        try {
         const searchBar = document.getElementById('searchBar');
         console.log(searchBar);
         searchBar.addEventListener('keyup', (e) => {
@@ -40,6 +45,13 @@ const Wisata = {
         list.forEach((wisata) => {
         listContainer.innerHTML += createListItemTemplate(wisata);
         });
+
+        loading.style.display = "none";
+
+    } catch (error){
+        loading.style.display = "none";
+        listContainer.innerHTML = `Error: ${error}, check to your connection`
+    }
     }
 };
 

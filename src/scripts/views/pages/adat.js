@@ -9,6 +9,7 @@ const Adat = {
             <div class="search-container">
                 <input type="search" id="searchBar" placeholder="Cari disini">
             </div>
+            <div id="loading"></div>
             <div class="content__list" id="contentList">
                 <div class="listContainer" id="listContainer">
             </div>
@@ -18,6 +19,10 @@ const Adat = {
     },
 
     async afterRender() {
+        const loading = document.querySelector('#loading');
+        loading.innerHTML = '<div class="loader"></div>';
+
+        try {
         const searchBar = document.getElementById('searchBar');
         console.log(searchBar);
         searchBar.addEventListener('keyup', (e) => {
@@ -38,6 +43,12 @@ const Adat = {
         list.forEach((adat) => {
             listContainer.innerHTML += createListAdatTemplate(adat);
         });
+        loading.style.display = "none";
+        
+    } catch (error){
+        loading.style.display = "none";
+        listContainer.innerHTML = `Error: ${error}, check to your connection`
+    }
     },
 };
 
