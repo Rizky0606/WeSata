@@ -72,7 +72,7 @@ const createDetailAdatTemplate = (adat) => `
         <i class="fa-solid fa-map" tabindex="0"> ${adat.province}</i>
     </div>
     <p class="content__description" id="contentDesc" tabindex="0">${adat.description1}</p>
-    <p class="content__description" id="contentDesc" tabindex="0">${adat.description2}</p>
+    <p class="content__description" id="contentDesc" tabindex="0" style="margin-bottom: 50px;">${adat.description2}</p>
 `;
 
 const createFavoriteButtonTemplate = () => `
