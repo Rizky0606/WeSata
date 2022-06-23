@@ -55,8 +55,8 @@ class Footer extends HTMLElement {
                         <i class="fas fa-envelope me-3"></i>
                         <a href="mailto:rizkyfauzi132@gmail.com" style="text-decoration: none;">rizkyfauzi132@gmail.com</a>
                         </p>
-                        <p><i class="fas fa-phone me-3"></i> +6281344989234</p>
-                        <p><i class="fas fa-phone me-3"></i> +6282359009125</p>
+                        <p><i class="fas fa-phone me-3"></i> <a href="tel:+6281344989234"></a></p>
+                        <p><i class="fas fa-phone me-3"></i> <a href="tel:+6282359009125"></a></p>
                     </div>
                     <!-- Grid column -->
                     </div>
