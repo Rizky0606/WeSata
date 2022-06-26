@@ -17,8 +17,8 @@ const Home = {
                     <div class="card border-0 shadow-sm p-3 bg-body rounded" style="width: 15.5rem; height: 20rem;">
                         <div class="card-body" style="text-align: center;">
                             <i class="fa-regular fa-thumbs-up fa-3x" style="color: #FFB21B; margin-top:35px; margin-bottom:35px;"></i>
-                            <h5 class="card-title" style="margin-bottom: 25px;">Travellers Suka Layanan Kami</h5>
-                            <h6 class="card-subtitle mb-2 text-muted">Berbagai macam destinasi memudahkan para traveller.</h6>
+                            <h2 class="card-title" style="margin-bottom: 25px;">Travellers Suka Layanan Kami</h2>
+                            <h3 class="card-subtitle mb-2 text-muted">Berbagai macam destinasi memudahkan para traveller.</h3>
                         </div>
                     </div>
                 
@@ -26,8 +26,8 @@ const Home = {
                     <div class="card border-0 shadow-sm p-3 bg-body rounded" style="width: 15.5rem; height: 20rem;">
                         <div class="card-body" style="text-align: center;">
                             <i class="fa-solid fa-people-roof fa-3x" style="color: #FFB21B; margin-top:35px; margin-bottom:35px;"></i>
-                            <h5 class="card-title" style="margin-bottom: 25px;">Adat Indonesia yang Lengkap</h5>
-                            <h6 class="card-subtitle mb-2 text-muted">Informasi budaya adat-istiadat di Indonesia.</h6>
+                            <h2 class="card-title" style="margin-bottom: 25px;">Adat Indonesia yang Lengkap</h2>
+                            <h3 class="card-subtitle mb-2 text-muted">Informasi budaya adat-istiadat di Indonesia.</h3>
                         </div>
                     </div>
                
@@ -35,8 +35,8 @@ const Home = {
                     <div class="card border-0 shadow-sm p-3 bg-body rounded" style="width: 15.5rem; height: 20rem;">
                         <div class="card-body" style="text-align: center;">
                             <i class="fa-regular fa-heart fa-3x" style="color: #FFB21B; margin-top:35px; margin-bottom:35px;"></i>
-                            <h5 class="card-title" style="margin-bottom: 25px;">Fitur Like Destinasi Favorit</h5>
-                            <h6 class="card-subtitle mb-2 text-muted">Simpan destinasi favoritmu hanya dengan tombol like.</h6>
+                            <h2 class="card-title" style="margin-bottom: 25px;">Fitur Like Destinasi Favorit</h2>
+                            <h3 class="card-subtitle mb-2 text-muted">Simpan destinasi favoritmu hanya dengan tombol like.</h3>
                         </div>
                     </div>
                 
@@ -67,8 +67,8 @@ const Home = {
 
         <section class="destination"> 
             <h2 class="destination-category">Top Destination</h2>
-            <button class="pre-btn" name="previous_button"><i class="fa-solid fa-angle-left"></i></button>
-            <button class="nxt-btn" name="next_button"><i class="fa-solid fa-angle-right"></i></button>
+            <button class="pre-btn"> < </button>
+            <button class="nxt-btn"> > </button>
             <div class="destination-container">
                 <div class="destination-card">
                     <div class="destination-image">
@@ -81,7 +81,7 @@ const Home = {
                         <a href="/#/detail-wisata/7" class="card-btn">Detail</a>
                     </div>
                     <div class="destination-info">
-                        <h2 class="destination-name">Kawah Putih</h2>
+                        <h3 class="destination-name">Kawah Putih</h3>
                     </div>
                 </div>
                 <div class="destination-card">
@@ -95,7 +95,7 @@ const Home = {
                         <a href="/#/detail-wisata/9" class="card-btn">Detail</a>
                     </div>
                     <div class="destination-info">
-                        <h2 class="destination-name">Air Terjun Kedung Pedut</h2>
+                        <h3 class="destination-name">Air Terjun Kedung Pedut</h3>
                     </div>
                 </div>
                 <div class="destination-card">
@@ -110,7 +110,7 @@ const Home = {
                         <a href="/#/detail-wisata/20" class="card-btn">Detail</a>
                     </div>
                     <div class="destination-info">
-                        <h2 class="destination-name">Candi Borobudur</h2>
+                        <h3 class="destination-name">Candi Borobudur</h3>
                     </div>
                 </div>
                 <div class="destination-card">
@@ -124,7 +124,7 @@ const Home = {
                         <a href="/#/detail-wisata/23" class="card-btn">Detail</a>
                     </div>
                     <div class="destination-info">
-                        <h2 class="destination-name">Raja Ampat</h2>
+                        <h3 class="destination-name">Raja Ampat</h3>
                     </div>
                 </div>
                 <div class="destination-card">
@@ -139,7 +139,7 @@ const Home = {
                         <a href="/#/detail-wisata/26" class="card-btn">Detail</a>
                     </div>
                     <div class="destination-info">
-                        <h2 class="destination-name">Danau Toba</h2>
+                        <h3 class="destination-name">Danau Toba</h3>
                     </div>
                 </div>
                 <div class="destination-card">
@@ -153,7 +153,7 @@ const Home = {
                         <a href="/#/detail-wisata/46" class="card-btn">Detail</a>
                     </div>
                     <div class="destination-info">
-                        <h2 class="destination-name">Pantai Kuta Mandalika</h2>
+                        <h3 class="destination-name">Pantai Kuta Mandalika</h3>
                     </div>
                 </div>
                 <div class="destination-card">
@@ -167,7 +167,7 @@ const Home = {
                         <a href="/#/detail-wisata/48" class="card-btn">Detail</a>
                     </div>
                     <div class="destination-info">
-                        <h2 class="destination-name">Pantai Parangtritis</h2>
+                        <h3 class="destination-name">Pantai Parangtritis</h3>
                     </div>
                 </div>
             </div>
@@ -194,7 +194,7 @@ const Home = {
         <div class="content-container-3">
             <div class="content-3">
                 <div class="content3_title">
-                    <h2>Tunggu apalagi? <br><b style="color: #FFB21B;">Yuk</b> jelajahi Indonesia!</h2>
+                    <h2>Tunggu apalagi? <br><b style="color: #8b6f1b;">Yuk</b> jelajahi Indonesia!</h2>
                 </div>
                 <div class="content3_button col text-center">
                     <a href="/#/wisata" class="btn btn-warning mx-auto border btn-lg rounded mt-3 button-nav">Jelajah Sekarang > </a>

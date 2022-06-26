@@ -211,6 +211,14 @@ header .title{
     font-size: 15px;
 }
 
+.card-title {
+    font-size: 18px;
+}
+
+.card-subtitle {
+    font-size: 15px;
+}
+
 .content-container-3{
     overflow: auto;
 }
@@ -238,17 +246,6 @@ header .title{
 
 .rounded {
     border-radius: 0.50rem!important;
-}
-
-/* Carousel */
-.carousel-control-prev-icon, .carousel-control-next-icon {
-    height: 25px;
-    width: 25px;
-    outline: black;
-    background-color: rgba(0, 0, 0, 0.3);
-    background-size: 100%, 100%;
-    border-radius: 50%;
-    border: 1px solid black;
 }
 
 /* Profile */
@@ -427,6 +424,8 @@ header .title{
     background: transparent;
     cursor: pointer;
     z-index: 8;
+    font-size: 30px;
+    font-weight: bolder;
   }
   
   .nxt-btn {
