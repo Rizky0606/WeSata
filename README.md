@@ -47,5 +47,8 @@ Framework yang digunakan:
 - Node JS
 
 Asset yang digunakan:
-- Unsplash.com
+- Google Image
 - Freepik.com
+
+Hosting:
+- Netlify
